@@ -1,0 +1,873 @@
+---
+title: "Psychologia pracy i organizacji"
+author: "Agata Zywert"
+date: "17 marca 2018"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Definicja pracy
+* Dzia³alnoœæ celowa, skierowana na przekszta³cania dóbr przyrody i przystosowanie ich do zaspokajania potrzeb jednostki (Wo³k, 2000)
+* Aktywnoœæ ukierunkowana na osi¹gniêcie cenionych celów, wykraczaj¹cych poza przyjemnoœæ p³yn¹ca z samej aktywnoœci (Warr, 2001)
+
+> "Znaczenie pracy mo¿emy zdefiniowaæ na ró¿ne sposoby m.in. jako: dzia³alnoœci gospodarcz¹ zmierzaj¹c¹ do zaspokojenia potrzeñ, sposób wydatkowania si³y roboczej, fizycznej i psychicznej, dzia³anie zmierzaj¹ce do pokonania oporu materii, czynnoœæ kszta³tuj¹ca przyrodê, formê uzewnêtrzniania mo¿liwoœci twórczych cz³owieka, sposób tworzenia kultury, podstawê kultury"
+
+## 2. ILO
+#### _Miêdzynarodowa Organizacja Pracy - International Labour Organization_
+Zosta³a utworzona 28.06.1919, nie wiem w ogóle po co jest ta informacja o niej, ale na tym slajdzie jest równie¿ napisane o ustawach o zawodach, zwi¹zkach zawodowych i stowarzyszeniach :)
+
+## 3. Stosunek wobec pracy i postawy wobec pracy
+* Stosunek do pracy jest to okreœlenie z³o¿one i obejmuje nie tylko wszelkie dziedziny pracy ludzkiej ale równie¿ sposób myœlenia pracownika, jego ¿ycie duchowe, moralnoœæ i œwiadomoœæ spo³eczn¹ konkretnych grup pracowniczych
+* Stosunek do pracy kszta³tuje siê w poszczególnych zbiorowoœciach pod wp³ywem miêdzy innymi przemian spo³eczno - gospodarczych.
+* Z³o¿ony i d³ugotrwa³y proces kszta³towania stosunku do pracy polega na zmianie psychiki cz³owieka i œwiadomoœci grupy, zmianie ich postaw wartoœci i d¹¿eñ.
+
+## 4. Co wp³ywa na stosunek ludzi do pracy?
+
+#### 3 grupy czynników
+* #####**czynniki ogólnie tak zwane _makrospo³eczne_:**
+* system spo³eczno – ekonomiczny 
+* ustrój spo³eczno polityczny, z systemem podejmowania decyzji politycznych, kulturowych
+* #####**Czynniki zwi¹zane z indywidualnymi, zawodowymi, demograficznymi i osobowoœciowymi cechami pracownika:**
+* p³eæ
+* wiek
+* stan rodziny
+* wykszta³cenie
+itp.
+* #####**Czynniki zwi¹zane z okreœlonym rodzajem dzia³alnoœci ludzkiej, tzw. _mikrospo³eczne_ np.:**
+* dzia³alnoœci produkcyjnej
+* politycznej
+* zawodowej
+
+####Obiektywny charakter stosunku do pracy wyra¿a siê w takich postawach pracownika jak:
+* efektywnoœæ pracy
+* podejmowanie inicjatyw zawodowych 
+* podejmowanie dzia³alnoœci wynalazczej 
+* dyscyplinie pracy 
+* stosunkach miêdzyludzkich w zespo³ach pracowniczych i integracji z zak³adem 
+* motywacji pracy 
+* chêci podnoszenia w³asnych kwalifikacji zawodowych
+
+## 5. Zadowolenie z pracy
+* Zadowolenie z pracy jako kategoria psycho – socjologiczna jest wypadkowa wielu czynników materialnych i pozamaterialnych. 
+* Z pojêciem tym ³¹czy siê stan równowagi pomiêdzy potrzebami a oczekiwaniami pracownika wobec pracy, a ich zaspokojeniem.
+* Zadowolenie z pracy jest wyk³adnikiem i jednoczeœnie wyznacznikiem okreœlonych postaw wobec pracy, zawodu, zak³adu.
+* Nie jest ono wy³¹cznie funkcj¹ tego, co praca daje, lecz tego, czego siê jeszcze pragnie.
+* Jest to wypadkowa satysfakcji z tego, co siê ma i niezadowolenia z tego, czego siê jeszcze nie ma.
+
+
+## 6. Psychologia pracy
+
+> "Psychologia pracy stawia sobie za cel badanie i rozwi¹zywanie zagadnieñ praktycznych zwi¹zanych z prac¹ i dzia³alnoœci¹ zawodowa cz³owieka"
+
+**Badania i zastosowanie psychologii pracy obejmuj¹:**
+
+* wzajemne przystosowanie cz³owieka i œrodowiska pracy
+* stosunki spo³eczne w œrodowisku pracy
+* motywacjê do pracy
+* problemy kliniczne nieprzystosowania do pracy
+
+## 7. Paradygmat pracy
+* **Okreœlony typ pracy badany przez psychologiê tworzy dany dzia³ psychologii pracy (PP) (np. psychologia transportu)**
+* **Mimo zró¿nicowania rodzajów prac i aktywnoœci zawodowych cz³owieka zatem w PP mo¿na wskazaæ na wspólne i niemal zawsze te same problemy:**
+
+* Wydajnoœæ
+* Produktywnoœæ
+* Jakoœæ
+* Bezpieczeñstwo
+* Przystosowanie
+* Dopasowanie
+
+## 7. Psychologia pracy // Psychologia przemys³owa
+* **Psychologia pracy** – _work psychology_ - Zajmuje siê ro¿nego rodzaju pracami zawodowymi
+* **Psychologia przemys³owa** – _industrial psychology_ - Koncentruje siê na pracy przemys³owej
+
+## 8. Pytania w psychologii pracy
+
+* Fizyczne warunki wykonywania pracy
+* Metody wykonywania pracy
+* Organizacja pracy
+* Badanie uwarunkowañ i przebiegu aktywnoœci zawodowej cz³owieka
+* Jakich zdolnoœci wymaga wykonywanie ró¿nego rodzaju prac
+* Jakie prace preferuj¹ ludzie z ró¿nym poziomem wykszta³cenia
+* Skutecznoœæ pracy –efekty
+* Œrodowisko pracy
+* Problematyka zatrudnienia w cyklu ¿ycia
+* Zarz¹dzanie kadrami
+* Spo³eczne i polityczne aspekty funkcjonowania organizacji
+
+## 9. Psychologia pracy –pytanie o to jak osi¹gn¹æ np.:
+
+* **Skutecznoœæ dzia³ania** – najwy¿sza iloœæ i jakoœæ dzia³ania
+* **Ekonomiczne parametry dzia³ania** – wysokie wyniki przy jak najmniejszym wysi³ku i kosztach, naj³atwiejszym sposobem i w jak najkrótszym czasie
+* **Bezpieczeñstwo cz³owieka** – skuteczne i ekonomicznie najlepsze parametry dzia³ania z minimalnymi ujemnymi skutkami ubocznymi
+* **Zadowolenie z pracy oraz poczucie jej wysokiej jakoœci**
+
+## 10. Psychologia cz³owieka pracuj¹cego
+
+Psychologia poradnictwa i doradztwa zawodowego –zainteresowania zawodowe, preorientacja zawodowa, planowanie kariery zawodowej
+* **Psychologia zatrudnienia** – rozwój zawodowy pracownika, zawodoznawstwo
+* **Psychologia szkolenia zawodowego** – projektowanie i usprawnianie metod oraz organizacja szkoleñ
+* **Psychologia kadr** – selekcja, klasyfikacja, ocena pracowników
+* **Psychologia organizacji i zarz¹dzania** – motywacja do pracy, postawy pracowników, dynamika grupy, obieg informacji, metody zarz¹dzania, rozwój organizacji
+
+## 11. Praca jako kategoria poznawcza
+**Praca w swoim interdyscyplinarnym charakterze wyra¿a:**
+
+* Swoista formê stosunku cz³owieka do przyrody.
+* Wiêzi miêdzy jednostkami ludzkimi.
+* Stosunki spo³eczne.
+
+## 12. Relacje cz³owiek - œrodowisko pracy
+Œrodowisko to wzglêdnie trwa³y uk³ad elementów otoczenia cz³owieka wa¿nych dla jego ¿ycia i zachowania siê.
+
+> "Fakt, ¿e cz³owiek ¿yje i dzia³a w okreœlonym œrodowisku ma równie podstawowe znaczenie dla psychologii jako nauki o zachowaniu cz³owieka, jak i dla psychologii pracy, jako nauki o zachowaniu siê cz³owieka w œrodowisku pracy"
+(Tomaszewski, 1975)
+
+## 13. Uk³ad cz³owiek - œrodowisko pracy
+
+* Elementami œrodowiska cz³owieka s¹ rzeczy i ludzie pozostaj¹cy ze sob¹ w ró¿norodnych stosunkach, przy czym ka¿dy cz³owiek jest te¿ elementem swojego œrodowiska i to elementem wyró¿nionym.
+* Œrodowisko cz³owieka mo¿na rozpatrywaæ trojako: jako Ÿród³o stymulacji jego aktywnoœci, jako zbiór czynników ukierunkowuj¹cych jego zachowanie (np. pracê) oraz jako podstawê organizacji jego zachowania siê.
+* Œrodowisko mo¿na rozpatrywaæ jako uk³ad bodŸców fizycznych, uk³ad stosunków spo³ecznych (wiêzi spo³ecznych) oraz jako uk³ad bodŸców motywuj¹cych do dzia³ania.
+* ¯ycie i dzia³alnoœæ cz³owieka mog¹ przebiegaæ tylko w przypadku istnienia w otoczeniu okreœlonych elementów, a tak¿e okreœlonych stanów i zwi¹zków.
+* W œrodowisku cz³owieka musi byæ odpowiednia temperatura, ciœnienie, œwiat³o, po¿ywienie, obecnoœæ innych ludzi itp. Zwi¹zki te s¹ szczególnie wyraŸne w œrodowisku pracy i czêsto siê o nich mówi jako o warunkach wykonywania zadañ pracy.
+
+## 14. Cz³owiek w sytuacji pracy
+**Regulatory i modyfikatory ludzkich zachowañ maj¹ce wp³yw na nasza pracê:**
+
+* Cechy osobowoœci
+* Temperament
+* Emocje i czynniki motywacyjne
+* Poczucie w³asnej skutecznoœci
+* Wewn¹trz i zewn¹trz sterownoœæ
+* Twórczoœæ
+
+## 15. Motywacja do pracy:
+
+> "Motywacja – proces regulacji, który steruje czynnoœciami cz³owieka tak, aby
+doprowadzi³y one do okreœlonego efektu, takiego jak : zmiana w fizycznym lub
+spo³ecznym stanie rzeczy"
+(Reykowski)
+
+* **2 podstawowe aspekty procesu motywacyjnego**:
+
+*  **Kierunek** – wyznaczany przez wskazanie celu, do którego zmierza czynnoœæ
+*  **Si³a d¹¿eñ** – stopieñ, w jakim dane d¹¿enie kontroluje zachowanie
+
+ _Opisuj¹c procesy motywacyjne nale¿y tak¿e uwzglêdniæ towarzysz¹ce im stany
+emocjonalne – **dodatnie** (radoœæ, satysfakcja) i **ujemne** (¿al, frustracja)_
+
+## 16. Psychologia ró¿nic indywidualnych w psychologii pracy:
+
+#### Inteligencja:
+
+* **Inteligencja** – zdolnoœæ do postrzegania, analizy i adaptacji do zmian otoczenia. Zdolnoœæ rozumienia, uczenia siê oraz wykorzystywania posiadanej wiedzy i umiejêtnoœci w ró¿nych sytuacjach
+* **Inteligencja** to konstrukt teoretyczny odnosz¹cy siê do wzglêdnie sta³ych warunków wewnêtrznychcz³owieka, determinuj¹cych efektywnoœæ dzia³añ, wymagaj¹cychprocesów poznawczych. Warunki te kszta³tuj¹ siê w wyniku interakcjigenotypu,œrodowiskai w³asnej aktywnoœci cz³owieka. (Strelau)
+* **Inteligencja** to ogólna zdolnoœæadaptacjido nowych warunków i wykonywania nowych zadañ przez wykorzystanie œrodków myœlenia. (Stern)
+* **Inteligencja** to w³aœciwoœæpsychiczna, która przejawia siê we wzglêdnie sta³ej, charakterystycznej dla jednostki efektywnoœci wykonywania zadañ (Tiep³ow)
+* **Inteligencja** to zdolnoœæ rozwi¹zywania problemów (Piaget)
+* **Inteligencja** to dostrzeganie zale¿noœci (edukcja relacji), relacji i wyci¹gania wniosków (edukcja korelacji). (Spearman)
+
+`Po tym nastêpujê jeszcze wiele innych definicji, które mówi¹ to samo a to wszystko i tak by³o u dr B³a¿ek`
+
+#### Osobowoœæ:
+
+* Osobowoœæ jako Ÿród³o ró¿nic indywidualnych – ludzie ró¿ni¹ siê miêdzy sob¹ ze wzglêdu na konstrukcjê psychiczn¹
+* Osobowoœæ jako organizacja cech, dyspozycji –warunkuj¹cych sta³oœæ, powtarzalnoœæ zachowania siê jednostki
+* Osobowoœæ rozpatrywana jako dzia³anie si³ psychodynamicznych
+* Osobowoœæ – a sprawnoœæ zawodowa cz³owieka, jego mo¿liwoœci i ograniczenia
+* Osobowoœæ jest istotnym czynnikiem powodzenia w pracy czy efektywnoœci zawodowej
+* Osobowoœæ wp³ywa na kszta³towanie preferencji zawodowych
+* Osobowoœæ wp³ywa na percepcjê pracy w kategoriach jej stresogennoœci
+* obejmuje: potrzeby, postawy, temperament, zdolnoœci i uzdolnienia, obraz siebie, samoocenê, zainteresowania
+
+#### Temperament jako regulator zachowania:
+
+* **Temperament** –z espó³ dziedziczonych cech osobowoœci, zdeterminowanych genetycznie i ujawniaj¹cych siê ju¿ w pierwszym roku ¿ycia cz³owieka. Tak rozumiany temperament stanowi podstawê kszta³towania siê i rozwoju osobowoœci
+* Temperament to wa¿ny czynnik regulacji zachowania i zdolnoœci przystosowawczych jednostki
+* Konstelacja cech temperamentu, która decyduje o efektywnoœci pracownika (decyzyjnoœæ, aktywnoœæ zawodowa)
+* Regulacyjny udzia³ cech osobowoœci i temperamentu znacz¹cy jest przy wykonywaniu zawodów trudnych i niebezpiecznych
+
+## 17. Cechy cz³owieka a wykonywanie pracy
+* **Cz³owiek jako podmiot pracy** – wgl¹d w mechanizmy reguluj¹ce jego stosunki z otoczeniem.
+* Pojêcie _przydatnoœci do pracy_ – podstawa tworzenia koncepcji przyjmowania do pracy, diagnozy psychologicznej prowadz¹cej do orzekania o mo¿liwoœciach cz³owieka i jego potencjalnych sukcesach i niepowodzeniach.
+* To jak cz³owiek pracuje, jakie osi¹ga wyniki i jakie nadaje im znaczenie zale¿y od tego, jakie s¹ jego **wartoœci** (czego pragnie, do czego d¹¿y) oraz jego **mo¿liwoœci.**
+
+## 18. Pojêcie _„mo¿liwoœci cz³owieka”_:
+
+* W najszerszym rozumieniu mo¿liwoœci to zdolnoœæ do spe³niania wymagañ, bardzo zbli¿ona do niezawodnoœci (Ratajczak 1988).
+* We wspó³czesnych podejœciach do analizy mo¿liwoœci u¿ywa siê pojêcia _zasobów_ (Hobfoll, 1988), w teorii zarz¹dzania mówi siê o zasobach ludzkich, maj¹c na myœli **rodzaj zintegrowanej si³y tkwi¹cej w poszczególnych jednostkach wchodz¹cych w sk³ad personelu danej organizacji.**
+* Na poziomie rozwa¿añ jednostkowych mówi siê o potencja³ach osoby, jej szczególnych cechach, talentach, unikatowych w³aœciwoœciach, charyzmie, mocy sprawczej itp.
+* Aktywnoœæ cz³owieka w toku wykonywania zadañ bardzo wyraŸnie zale¿y od jego konstytucji fizycznej, od zdrowia i si³, jakimi dysponuje. Takie mo¿liwoœci maj¹ œcis³y zwi¹zek z wydajnoœci¹ pracy, przy wykonywaniu du¿ej liczby czynnoœci._
+
+## 19. Mo¿liwoœci i zdolnoœci zawodowe:
+
+**O mo¿liwoœciach cz³owieka decyduj¹ równie¿ jego zdolnoœci i uzdolnienia, w tym zdolnoœci intelektualne.**
+
+* Ogó³ cech zarówno fizycznych, jak i psychicznych, decyduj¹cych o powodzeniu cz³owieka w okreœlonej pracy, nazywamy przydatnoœci¹ do pracy.
+* Pojêcie przydatnoœæ ma podkreœlaæ, ¿e chodzi o okreœlony rodzaj pracy, do której siê dany cz³owiek nadajealbo nie, albo te¿ nadaje siê w znacznie mniejszym stopniu ni¿ do innej pracy.
+* Ludzie ró¿ni¹ siê ow¹ przydatnoœci¹ do pracy, zawodu, stanowiska, kariery, zajêcia.
+* Pojêcie to mo¿na rozpatrywaæ statystyczniejako gotowy i stabilny kompleks czy konstelacje cech(zdobytych w wyniku odpowiedniego wyszkolenia) oraz dynamicznie, jako konstelacjê cech podlegaj¹c¹ nieustannym zmianompod wp³ywem uczenia siê, socjalizacji, ale tak¿e chorób, doœwiadczeñ kryzysowych, ¿yciowych prób.
+
+## 20. Zdolnoœci zawodowe i poradnictwo
+
+* W ustaleniu przydatnoœci do pracy w ramach poradnictwa zawodowego s¹ okreœlone metody, najczêœciej testy (np. Test Uzdolnieñ Zawodowych), ale tak¿e wywiady, kwestionariusze, próbki czynnoœci itp.
+* Jedn¹ z g³ównych ról psychologa pe³ni¹cego rol¹ doradcy zawodowego jest diagnoza psychologiczna uzdolnieñ zawodowych.
+* Zdolnoœæ (uzdolnienia zawodowe) to zespó³ warunków wewnêtrznych (cech) umo¿liwiaj¹cych wykonywanie dzia³añ okreœlonego rodzaju.
+* Im wiêkszy stopieñ z³o¿onoœci zadañ, tym wiêkszych zdolnoœci wymaga siê od cz³owieka.
+* Rozró¿nia siê zdolnoœci: **Ogólne** (spostrzegawczoœæ, inteligencja, emotywnoœæ, mobilnoœæ) **Specyficzne** (np. spostrzegawczoœæ do zdolnoœæ do szybkiego odbioru i rozumienia nowych informacji; inteligencja do zdolnoœæ do myœlenia i rozwi¹zywania problemów, oparta na przetwarzaniu odebranych i utrwalonych informacji, emotywnoœæ to zdolnoœæ do wartoœciowania przedmiotów itd.)
+
+## 21. Diagnoza zdolnoœci zawodowych
+
+`ogólnie tu by³o wiêcej tego wymienionego, ale wypisa³am tylko czêœæ, ale to chyba bez sensu`
+
+* Ró¿ne rodzaje wywiadów
+* Portfolio i analiza dokumentów
+* Testy, inwentarze, kwestionariusze
+* Techniki sonda¿owe
+* Metody oparte na **cyklu Kolba**
+* Analizy przypadków
+* Gry i zabawy
+
+## 21. Cykl Kolba
+
+**Graficzn¹ reprezentacj¹ jest powtarzalny cykl czterech kroków**
+
+* Wiedzê zdobywa siê poprzez praktykê i doœwiadczenie.
+* Pewne konkretne doœwiadczenie sk³ania do rozumnej obserwacji.
+* Ta refleksja powoduje tworzenie abstrakcyjnych regu³ generalizuj¹cych, s³u¿¹cych nie tyle do opisania danego konkretnego zdarzenia, ale wszystkich jemu podobnych.
+* Powsta³a w ten sposób wiedza jest nastêpnie weryfikowana przez aktywne eksperymenty –czyli sprawdzenie nowego pomys³u w praktyce, co prowadzi do powstania nowych doœwiadczeñ i cykl zaczyna siê od pocz¹tku.
+* Model ten zak³ada, ¿ewiedzêzdobywa siê g³ównie poprzez praktykê, bywa za to najczêœciej krytykowany. Pomimo umniejszania wagi uczenia teoretycznego i uczenia z samoistnego wyboru, stanowi fundament wiêkszoœci teorii zarz¹dzania wiedz¹ i organizacji ucz¹cej siê.
+
+![](http://www.marketingowa-moc.pl/wp-content/uploads/2014/03/cykl_kolba.png)
+
+## 22. Technika Q-sort
+
+* Polega na sortowaniu stwierdzeñ pod wzglêdem pasowania do jakiegoœ kryterium na kilkupunktowym kontinuum. Pocz¹tek skali (oznaczmy j¹ umownie jako 1) oznacza zupe³ny brak zgodnoœci, koniec skali (np.9) ca³kowit¹ zgodnoœæ. Tak te¿ nazywa siê zbiór pozycji, które podlegaj¹ sortowaniu.
+* **Przyk³ad.** Prosimy osobê badan¹ aby oszacowa³a w jakim stopniu pasuj¹ do niej nastêpuj¹ce stwierdzenia: "lubiê lody", "myœlê o lodach", "fantazjujê o ró¿nych deserach lodowych", „lody s¹ tucz¹ce" itd.
+* Zadaniem badanego jest u³o¿enie tych kartek na osobne kupki zgodnie z tym jak bardzo do niego pasuj¹. Dodatkowo stosuje siê pewne ograniczenia sortowania, tak aby rozk³ad twierdzeñ przypomina³ w przybli¿eniurozk³ad normalny-badany dowiaduje siê, ¿e powinien u¿yæ wszystkich punktów kontinuum, najwiêcej kartek powinno znaleŸæ siê w œrodkowej czêœci, skrajne powinny byæ u¿ywane rzadziej.
+
+## 23. Analiza SWOT
+
+Analiza SWOT polega na podzieleniu zebranych informacji na cztery grupy (cztery kategorie czynników strategicznych):
+
+* **S** _(Strengths)_ – mocne strony: wszystko to co stanowi atut, przewagê, zaletê,
+* **W** _(Weaknesses)_ – s³abe strony: wszystko to co stanowi s³aboœæ, barierê, wadê,
+* **O** _(Opportunities)_ – szanse: wszystko to co stwarza szansê korzystnej zmiany,
+* **T** _(Threats)_ – zagro¿enia: wszystko to co stwarza niebezpieczeñstwo zmiany niekorzystnej.
+
+## 24. Zdolnoœci zawodowe a sukces w pracy
+
+**Tiffin i McCormick (1973) wymieniaj¹ nastêpuj¹ce cechy, stanowi¹ce podstawê sukcesu w wykonywaniu najró¿niejszych zawodów i zajêæ (wystêpuj¹ce w ró¿nych konfiguracjach, ale zawsze maj¹ce poziom ponadprzeciêtny):**
+
+* Rozumienie s³ów (u¿ywanie testów s³ownikowych w wielu testach uzdolnieñ zawodowych)
+* Ekspresja s³owna
+* P³ynnoœæ wyobraŸni
+* Oryginalnoœæ myœlenia
+* Zdolnoœæ do zapamiêtywania liczb
+* Rozumowanie dedukcyjne i indukcyjne
+* Porz¹dkowanie informacji, giêtkoœæ myœlenia
+* Orientacja przestrzenna i wyobraŸnia wzrokowa
+* Fluencja s³owna w czasie dyskusji, giêtkoœæ argumentowania, szybkoœæ dyskutowania
+* Uwaga selektywna
+* Umiejêtnoœci gospodarowania czasem
+* Szybkoœæ spostrzegania
+* Napiêcie statyczne i dynamiczne
+* Si³a wyrzutu ramienia, wytrwa³oœæ fizyczna, giêtkoœæ cia³a
+* Czas reakcji prostej, czas reakcji z wyborem, szybkoœæ ruchu poszczególnych czêœci cia³a
+* Zrêcznoœæ palców, r¹k, tzw. sta³oœæ rêki i ramienia
+* Kontrola szybkoœci ruchów, dok³adnoœæ sterowani
+
+`jezusie, jakie to nudne xD`
+
+## 25. Kompetencje i kwalifikacje jako podstawy polityki personalnej
+
+* Pojêcie kompetencji jest przedmiotem zainteresowañ wielu nauk spo³ecznych i prawa.
+* Psychologowie podkreœlaj¹ g³ównie fakt funkcjonalnego dopasowania cz³owieka do pracy oraz psychologiczne mechanizmy regulacji wzajemnych stosunków cz³owieka ze swym otoczeniem, zarówno fizycznym, jak i spo³ecznym.
+* W psychologii tzw. kompetencje spo³eczne nazywa siê kompetencjami interpersonalnymi.
+
+#### A. Kompetencje spo³eczne
+
+_Wymienia siê trzy najwa¿niejsze modele kompetencji spo³ecznych:_
+
+* **Trójsk³¹dnikowy model Cavella**: przystosowanie spo³eczne, funkcjonowanie spo³eczne i umiejêtnoœci spo³eczne.
+Przystosowanie spo³eczne mo¿emy oceniæ po sposobie funkcjonowania jednostki w sytuacjach spo³ecznych, a umiejêtnoœci mog¹ byæ rozpoznane tylko w praktycznym ich stosowaniu, czyli w sposobie funkcjonowania cz³owieka w tego typu sytuacjach.
+* **Model Argyle’a.** Kompetencje spo³eczne to opanowanie niezbêdnych umiejêtnoœci pozwalaj¹cych uzyskaæ u innych ludzi po¿¹dane zachowanie w sytuacjach spo³ecznych.Wœród owych umiejêtnoœci wymienia: asertywnoœæ, gratyfikacje i wsparcie, zdolnoœæ komunikowania werbalnego i niewerbalnego, zdolnoœæ empatii i wspó³pracy, strategie rozwi¹zywania problemów i zdolnoœæ do adekwatnego zachowania siê w ró¿nych sytuacjach (plastycznoœæ). Umiejêtnoœci te nabywane s¹ w toku treningu spo³ecznego (sytuacje intymne, sytuacje ekspozycji spo³ecznej, sytuacje formalne, sytuacje wymagaj¹ce asertywnoœci [Matczak, 2001]).
+* **Model ASC** (_Affective Social Competence_) oparty na teorii emocji. Zak³ada istnienie 3 zintegrowanych ze sob¹ czynników: zapisywanie informacji afektywnych, odtwarzanie informacji afektywnych oraz doœwiadczanie afektu.
+Zwi¹zany z koncepcj¹ inteligencji emocjonalnej Golemana, podkreœlaj¹cej koniecznoœæ orientowania siê osoby we w³asnych emocjach, ich znajomoœci, kierowania nimi i rozpoznawania emocji u innych i podtrzymywania zwi¹zków z innymi.
+
+#### Kompetencje spo³eczne a dobór kandydatów:
+
+* Wiedza o kompetencjach jest obecnie w doborze kandydatów na stanowiska kierownicze oraz do pracy w sytuacjach, w których konieczne jest wsparcie spo³eczne, np. pracownicy socjalni, pielêgniarki, lekarze, prawnicy, doradcy wszelkiego rodzaju i nauczyciele itp.
+* **typy psychologicznych profili mened¿erów:**
+
+* **Mened¿erowie odwa¿ni** : odwaga ich p³ynie z g³êbokiej identyfikacjiz dzia³aniami organizacyjnymi.
+* **Mened¿erowie wyzwalaj¹cy**: rzucaj¹ wyzwania, pragn¹ odnowy organizacji, czêsto wytykaj¹ dotychczasowe b³êdy, nastawieni s¹ na konfrontacjê, sprzeciw wobec tego, co jest.
+* **Mened¿erowie niezadowoleni**: widz¹ beznadziejnoœæ sytuacji, brakuje im si³, ambicji, energii, chêci dzia³ania, odrzucaj¹ stan aktualny, lecz brakuje im si³, ¿eby coœ zmieniæ.
+* **Mened¿erowie konformiœci**: przejawiaj¹ wielk¹ troskê o organizacjê, s¹ wrêcz patologicznie lojalni, nie potrafi¹ zdobyæ siê na odwagê ¿eby coœ zmieniæ. To co jest, uwa¿aj¹ za najlepsze.
+
+#### B. Kompetencje mened¿erskie
+
+**Obecnie najwiêksz¹ popularnoœci¹ cieszy siê nastêpuj¹ca lista kompetencji:**
+
+* Umiejêtnoœci techniczne, zwiêkszanie aktywnoœci w³asnej.
+* Umiejêtnoœci radzenia sobie ze stresem.
+* Umiejêtnoœci komunikowania siê.
+* Umiejêtnoœci rozwi¹zywana konfliktów.
+* Umiejêtnoœæ pracy z zespo³em.
+* Umiejêtnoœæ wprowadzania zmian.
+* Umiejêtnoœæ zdobywania wp³ywu i w³adzy.
+
+## 26. Mechanizmy regulacyjne zachowania siê cz³owieka w miejscu pracy:
+
+* **Praca jest aktywnoœci¹ ukierunkowan¹ na zadania,** których realizacja ma siê przyczyniæ do uzyskania okreœlonych gratyfikacji, w g³ównej mierze materialnych.
+* Przedmiotem zainteresowañ psychologów pracy s¹ mechanizmy œciœle zwi¹zane z wymian¹ œwiadczeñ, z interakcjami ³¹cz¹cymi siê z wywieraniem wp³ywu lub z uleganiem wp³ywom innych ludzi i z rol¹ zaufania interpersonalnego w regulacji w³aœnie tych stosunków.
+* Ka¿dy pracownik rozpoczynaj¹c pracê w firmie poznaje zasady otrzymywania okreœlonych œwiadczeñ za wykonan¹ pracê, wie kto i jak bêdzie go kontrolowa³, ale ¿e jak on sam bêdzie kontrolowa³ swoich partnerów oraz na czym bêdzie polega³a samokontrola.
+
+#### Mechanizmy regulacyjne – kontrakt psychologiczny:
+
+* **Kontrakt psychologiczny** jest pojêciem, które wyros³o z problematyki wymiany spo³ecznej, z badañ nad s³usznoœci¹ p³acy i rol¹ wynagrodzenia w podejmowaniu przez pracownika decyzji o wiêkszym zaanga¿owaniu w pracê i w realizowanie organizacyjnych celów.
+
+## 27. Percepcja kontraktu psychologicznego
+
+**3 rodzaje sytuacji** (Lester, Turnleyi inni, 2002):
+
+* _**Sytuacje zgodnoœci versus niezgodnoœci miêdzy dwiema stronami kontraktu.**_ Po przez identyfikacjê obszaru, w którym obustronne obietnice nie s¹ respektowana mo¿na prognozowaæ konflikty, co mo¿e s³u¿yæ precyzowaniu nowego kontraktu.
+* _**Sytuacje, w których ró¿nice w spostrzeganiu kontraktu wp³ywaj¹ na postawy i zachowania**_, zarówno prze³o¿onych jak i pracowników wobec pracy i siebie. Wa¿ne pytanie: jak fakt z³amania kontraktu wp³ywa na zaanga¿owanie i rzeczywist¹ wydajnoœæ pracy obu stron.
+* _**Sytuacje, w których istniej¹ ró¿nice atrybucji przyczyn ³amania kontraktu**_, których dokonuj¹ pracownicy i prze³o¿eni oraz stopieñ w jakim obie strony przypisuj¹ intencjonalnoœæ w ³amaniu kontraktu psychologicznego.
+
+**Wnioski z badañ** :
+
+* Pracownicy s¹ bardziej sk³onni do dostrzegania niedotrzymywania warunków
+kontraktu psychologicznego (p³ace, awanse, dobre stosunki w pracy), lecz nie
+ró¿ni¹ siê w ocenie wysokoœci premii, iloœci wykonanej pracy oraz Ÿróde³
+wsparcia. Pracownicy nawet wy¿ej oceniaj¹ wype³nianie warunków kontraktu
+ni¿ ich prze³o¿eni.
+* Spostrzeganie faktów naruszenia kontraktu psychologicznego wp³ywa
+zarówno na obni¿enie nastrojów, jak i na obni¿enie wskaŸników wydajnoœci
+pracy.
+* Pracownicy bardziej ni¿ ich prze³o¿eni sk³onni s¹ traktowaæ przypadki ³amania
+kontraktu przez prze³o¿onych jako niedotrzymywanie obietnic i wycofywanie
+siê z nich.
+* Prze³o¿eni fakt pokrzywdzenia pracownika przez firmê przypisuj¹ czynnikom
+le¿¹cym ca³kowicie poza organizacj¹ (np. z³e prawo).
+
+## 28. Konflikt w organizacji jako mechanizm regulacyjny
+
+**Konflikty uwa¿a siê za zjawiska naturalne w ka¿dej organizacji i w ka¿dej
+zbiorowoœci, gdy¿:**
+
+* W ka¿dej spo³ecznoœci istniej¹ grupy i osoby maj¹ce ro¿ne, czêsto
+sprzeczne interesy, wynikaj¹ce np. z nierównego podzia³u pracy,
+niew³aœciwej alokacji dóbr bêd¹cych w dyspozycji danej organizacji itp.
+* Ka¿da organizacja dysponuje z regu³y ograniczon¹ iloœci¹ zasobów,
+bêd¹cych do podzia³u w zamian za wk³ad, jaki wnosz¹ do organizacji jej
+poszczególni cz³onkowie.
+* Pracownicy czêsto maj¹ wygórowane aspiracje i oczekiwania w stosunku
+do samych siebie, a tak¿e do przedsiêbiorstwa. Uwa¿aj¹, ¿e ich praca jest
+warta wiêcej, ni¿ to co za ni¹ otrzymuj¹ (zawy¿ona samoocena).
+* Instytucje stawiaj¹ niekiedy nieuzasadnione wymagania pracownikom
+zajmuj¹cym okreœlone stanowisko pracy, gdy¿ ci¹gle brakuje obiektywnych
+metod wyceny (wartoœciowania) pracy (np.pracy twórczej, szczególnie
+odpowiedzialnej, wysoko p³atnej w firmach konkurencyjnych itp.)
+
+## 29. Konflikt w organizacji – symptomy:
+
+* **Niezadowolenie pracowników.** Wysuwanie roszczeñ pod adresem
+pracodawcy (mog¹ byæ uzasadnione lub mieæ charakter roszczeniowy)
+* **Skargi i za¿alenia pracowników**, przekazywane za poœrednictwem organów
+uprawnionych do interwencji (s¹dy kole¿eñskie, samorz¹dy pracownicze,
+inspekcja pracy, zwi¹zki zawodowe itp.)
+* **Anonimy i donosy** przekazywane instancjom nadrzêdnym, uprawnionym do
+sprawowania nadzoru i kontroli
+* **Z³oœliwe uwagi krytyczne**, ironiczne komentarze, demonstracyjne
+nieobecnoœci lub ostentacyjne opuszczanie gremiów, by wyraziæ protest.
+* **Akty agresji**, gwa³tu, pobicia i rêkoczyny, najbardziej drastyczne i najmniej
+cywilizowane formy walki, które mog¹ siê zdarzyæ w miejscach publicznych
+i w pracy.
+
+## 30. Konflikty w pracy
+
+* Wielk¹ sztuk¹ personelu zarz¹dzaj¹cego dan¹ firm¹ jest umiejêtnoœæ utrzymania optymalnego poziomu konfliktu, poniewa¿ wówczas jest on Ÿród³em tzw. twórczych rozwi¹zañ.
+* Wymaga to nieustannego czuwania, tak by aspekt zadaniowy, funkcjonalny nie zosta³ zdominowany przez cele uboczne, pozazadaniowe, prywatne interesy uczestników konfliktu.
+
+## 31. Rekrutacja i selekcja pracowników
+
+**Rekrutacja to pierwszy etap poszukiwania kandydatów do pracy, który s³u¿y zebraniu odpowiedniej grupy osób, spe³niaj¹cych wymagania do pracy na okreœlonym stanowisku.**
+
+* _**Przyk³adowe klasyfikacje: podzia³ rekrutacji ze wzglêdu na stopieñ zaanga¿owania pracodawcy w poszukiwania pracowników:**_
+
+* **Bierne formy rekrutacji** – osoby zainteresowane prac¹ w danej firmie same przesy³aj¹ dokumenty aplikacyjne, nawet, gdy aktualnie nie ma wolnego stanowiska pracy. Sam pracodawca w tej sytuacji nie podejmuje ¿adnych dzia³añ w celu poszukiwania przysz³ych pracowników.
+* **Aktywne bezpoœrednie formy rekrutacji** – s¹ to metody, gdzie firma dokonuje wysi³ku, by znaleŸæ osoby chêtne do podjêcia w niej pracy. Mog¹ to byæ og³oszenia w prasie, mediach, upowszechnianie ofert podczas dni kariery, targów pracy, gie³d pracy.
+* **Aktywne poœrednie formy rekrutacji** – wykorzystuj¹c tê formê, pracodawca zleca poszukiwanie pracowników firmom zewnêtrznym, takim jak agencje doradztwa personalnego czy agencje poœrednictwa pracy.
+
+## 32. Selekcja pracowników
+
+_**Do najczêœciej wykorzystywanych metod mo¿na zaliczyæ**_:
+
+* analizê ¿yciorysu i ankiet biograficznych
+* rozmowê kwalifikacyjn¹
+* testy psychologiczne
+* testy wiedzy
+* centra oceny – _assessment centre_
+* techniki symulacyjne
+
+## 33. Stres zawodowy
+
+#### Problematyka stresu w pracy:
+
+* Doros³e osoby poœwiêcaj¹ œrednio oko³o 25% aktywnoœci ¿yciowej na pracê zawodow¹. 
+* praca jest tak¿e jednym z najczêstszych i najwiêkszych Ÿróde³ stresu oraz miejscem doœwiadczania negatywnych emocji.
+* Nie istniej¹ oddzielne koncepcje stresu „ogólnego” i stresu w pracy.
+* Kanter (1977) stwierdzi³, ¿e dzia³ania zwi¹zane i niezwi¹zane z prac¹ s¹ powi¹zane ze sob¹, jeœli chodzi o ich efekty psychologiczne, fizjologiczne i zdrowotne.
+* Oddzielanie dwóch sfer: praca i poza prac¹ zosta³o nazwane przez Kantera „mitem oddzielnych œwiatów”.
+* Nie jest prawd¹, ¿e praca wywiera wy³¹cznie negatywny wp³yw na zdrowie. Istniej¹ dowody œwiadcz¹ce o tym, ¿e stres nie musi mieæ nastêpstw patologicznych.
+* Reakcje wielu osób na doœwiadczenie stresu, zarówno natury psychologicznej, jak i fizjologicznej, mieszcz¹ siê w granicach homeostazy organizmu i mimo obci¹¿enia dla mechanizmów psychofizjologicznych, nie musz¹ powodowaæ d³ugotrwa³ych zaburzeñ.
+* Tak wiêc, mimo ¿e stres zawsze obni¿a dobre samopoczucie, niekoniecznie musi przyczyniaæ siê do powstawania zaburzeñ fizycznych lub psychicznych.
+* Zgodnie z podejœciem psychologicznym (w odró¿nieniu od podejœcia in¿ynieryjnego i fizjologicznego) _**stres**_ w kontekœcie pracy definiowany jest jako **dynamiczna interakcja miêdzy cz³owiekiem a œrodowiskiem pracy.**
+
+`tu nast¹pi³o teoria stresu Lazarausa, Strelaua i kogoœ tam jeszcze, ale mi siê nie chcê wnikaæ, sorki`
+
+#### Symptomy prze¿yæ i napiêæ wewnêtrznych:
+
+* nagle wybuchy niekontrolowanej agresji
+* celowe próby zmiany oczekiwañ zwi¹zanych z rol¹
+* przerzucanie konfliktu na innych
+* zachowanie nonkonfornistyczne w organizacji, wycofanie lub bunt
+
+#### Wielka trójka negatywnych emocji: 
+
+##### _**Z£OŒÆ**_
+##### _**NIEPOKÓJ**_
+##### _**DEPRESJA**_
+
+_Nieprzyjemne emocje s¹ tak samo
+toksycznym czynnikiem ryzyka jak palenie,
+wysoki poziom cholesterolu w odniesieniu do
+chorób serca._
+
+* **SCHEMAT STRESU**:
+
+* **_¿yciowe wydarzenia/ lêk/ interpretacja psychologiczna_**:
+* Reakcja na stres - _Poziom fizjologiczny_
+* Reakcja na stres - _Poziom Psychologiczny - emocjonalny_
+* Reakcja na stres - _Poziom behawioralny_
+
+* **Wp³yw czynników stresogennych w pracy na zdrowie**:
+
+* **Czynniki obiektywne** (biologiczne, fizyczne, chemiczne) - Bezpoœredni wp³yw na zdrowie
+* **Czynniki psychospo³eczne** - Wp³yw na zdrowie za poœrednictwem mechanizmu stresu
+
+`Tam ogólnie jest potem w pizdu jakiœ schematów, ale wszystkie mówi¹ to samo, ¿e`
+`na proces stresu wp³ywaj¹ czynniki zewnêtrzne, ale te¿ indywidualne cechy`
+`jednostki (jak np. to jak sb z nim radzi) i to wszystko dajê stres, który wp³ywa na zdrowie`
+
+
+
+#### Skutki stresu w pracy:
+
+* Jeœli stres pojawia siê czêsto, organizm pozostaje
+w stanie silnego pobudzenia fizjologicznego i
+wysokiej gotowoœci mobilizuj¹cej organizmu.
+* Przed³u¿aj¹cy siê stres sprzyja rozwojowi
+zaburzeñ psychosomatycznych (choroba
+wieñcowa, wrzody ¿o³¹dka, alergie, bóle g³owy
+i krêgos³upa, w pewnym stopniu równie¿
+choroby nowotworowe) oraz obni¿a odpornoœæ
+organizmu.
+
+#### Stres w pracy a czynniki psychospo³eczne:
+
+* W ostatnich dziesiêcioleciach zasz³y powa¿ne zmiany, bezpoœrednio
+zwi¹zane z organizacj¹ i zarz¹dzaniem procesem pracy (EU-OSHA, 2007).
+* Pojawienie siê nowych zagro¿eñ i nowych wyzwañ w obszarze ochrony
+pracy.
+* Zagro¿enia psychospo³eczne w pracy zosta³y uznane za istotne nowe
+czynniki ryzyka (EU-OSHA, 2007; NIOSH, 2002).
+* Stres zawodowy oraz przemoc w miejscu pracy, zwi¹zane z
+psychospo³ecznymi czynnikami ryzyka, uznawane s¹ za g³ówne wyzwania
+dla bezpieczeñstwa i higieny pracy (EU-OSHA,2007).
+
+## 34. Definiowanie psychospo³ecznych czynników ryzyka
+
+* Zagro¿enia psychospo³eczne to ka¿dy rodzaj bodŸca/sytuacji, który oddzia³uje na cz³owieka na drodze mechanizmów psychologicznych, powoduj¹c szkodê w postaci zak³óceñ w dobrym funkcjonowaniu i zaburzeñ zdrowia.
+* Ryzyko zwi¹zane z czynnikami psychospo³ecznymi to prawdopodobieñstwo, ze ujawni siê potencja³ szkodliwoœci i mo¿liwy zakres szkód wywo³anych przez te czynniki (Cox i Griffiths, 2006, Luksemburg).
+* Miêdzynarodowa Organizacja Pracy definiuje zagro¿enia psychospo³eczne w kategoriach interakcji pomiêdzy treœci¹ pracy, organizacj¹ i zarz¹dzaniem procesem pracy oraz innymi **organizacyjnymi i œrodowiskowymi uwarunkowaniami z jednej strony, a kompetencjami i potrzebami pracownika z drugiej** (ILO, 1986).
+* Prostsza definicja: **te aspekty projektowania i zarz¹dzania procesem pracy** wraz z ich kontekstem spo³eczno-organizacyjnym, które potencjalnie mog¹ spowodowaæ szkody psychologiczne lub fizyczne (Cox i Griffiths, 2005).
+
+## 35. Zagro¿enia zawodowe:
+
+##### Ka¿dy czynnik, który mo¿e spowodowaæ wyst¹pienie szkody:
+
+* **fizyczne** (biologiczne, biomechaniczne, chemiczne i radiologiczne)
+* **Psychospo³eczne**:
+*Je¿eli oddzia³ywanie ma charakter bezpoœredni, fizykochemiczne, to mówimy o zagro¿eniach fizycznych.
+* Je¿eli natomiast oddzia³ywanie ma charakter psychofizjologiczny, poœredni (mechanizmem poœrednicz¹cym jest stres), to mowa o zagro¿eniach psychospo³ecznych.
+* Zagro¿enia psychospo³eczne to stresory zawodowe lub inaczej Ÿród³a stresu w pracy.
+
+![](http://slideplayer.pl/slide/1217312/3/images/5/RODZAJE+PSYCHOSPO%C5%81ECZNYCH+ZAGRO%C5%BBE%C5%83+ZAWODOWYCH+P%C5%81ASZCZYZNA+POZAZAWODOWA.jpg)
+
+
+## 35. Raport ILO – psychospo³eczne czynniki zagra¿aj¹ce zdrowiu pracownika:
+
+* **Czynniki fizyczne** (ha³as temperatura)
+* **Czynniki zwi¹zane z prac¹** (przeci¹¿enie prac¹ –iloœciowe i jakoœciowe, monotonia)
+* **Rozk³ad czasu pracy** (godziny pracy, zmianowoœæ)
+* **Czynniki organizacyjne i wynikaj¹ce z kierowania – pe³nionej roli** (brak swobody w podejmowaniu decyzji)
+* **Stosunki w pracy** (ich jakoœæ, wsparcie spo³eczne)
+* **Zmiany w œrodowisku pracy**
+* **Czynniki wynikaj¹ce z zmian technologicznych** (koniecznoœæ przystosowania lub wyszkolenia)
+* **Inne** (niepewnoœæ pracy, poczucie odpowiedzialnoœci za utrzymanie rodziny)
+
+## 36. Stres zawodowy po raz 2567890
+
+* Ryzyka psychospo³eczne s¹ nieod³¹cznie zwi¹zane z doœwiadczaniem stresu zawodowego.
+* Stres zawodowy jako reakcja organizmu cz³owieka mo¿e wyst¹piæ w sytuacji, gdy jednostka eksponowana jest na zwi¹zane z prac¹ wymagania i presjê, które nie s¹ dostosowane do jej wiedzy i umiejêtnoœci oraz stanowi¹ wyzwanie z punktu widzenia jej zdolnoœci do poradzenia sobie(WHO,2003).
+* Ponadto, w wyniku nara¿enia na niekorzystne psychospo³eczne warunki pracy i doœwiadczania wynikaj¹cego z nich stresu zawodowego, coraz powszechniejszy staje siê tak¿e problem wypalenia zawodowego.
+
+`potem jest o tym jak ludziom siê ten stres dziejê w Europie, jak kogoœ to interesujê to niech se obczai`
+
+## 37. Nara¿enie na ryzyka psychospo³eczne – mechanizmy:
+
+**Konsekwencjami zmieniaj¹cego siê charakteru pracy jest wzrastaj¹ce nara¿enie na psychospo³eczne czynniki ryzyka oraz pojawianie siê nowych zagro¿eñ, które musz¹ zostaæ zidentyfikowane aby mo¿liwe by³o zredukowanie ryzyka jakie nios¹ one dla zdrowia i bezpieczeñstwa pracy** (EU-OSHA, 2007).
+
+* Wyniki badañ wskazuj¹ce na zwi¹zek pomiêdzy zg³aszaniem skarg na utratê zdrowia w zwi¹zku z prac¹ a nara¿eniem na psychospo³eczne czynniki ryzyka oraz na interakcje miêdzy zagro¿eniami fizycznymi i psychospo³ecznymi skutkuj¹cymi negatywnymi konsekwencjami zdrowotnymi na poziomie indywidualnym i organizacyjnym (Cox, Griffiths i Rial-Gonzalez, 2000).
+* Szczególnie zagro¿enia psychospo³eczne w miejscu pracy okaza³y siê mieæ potencjalny szkodliwy wp³yw na zdrowie psychiczne, somatyczne i spo³eczne pracowników
+* Coraz wiêksza liczba dowodów naukowych wskazuje zarówno na bezpoœredni jak i poœredni wp³yw psychospo³ecznych warunków pracy na wskaŸniki kondycji organizacji (takie jak: absencje, w tym chorobowe, produktywnoœæ, satysfakcja z pracy oraz zamiar odejœcia)
+
+## 37. Stres zawodowy 
+
+`kto by siê spodziewa³ XD`
+
+**Ganster i Schaubroeck**:
+
+* brak jednoznacznych dowodów naukowych na istnienie zwi¹zków stresu zawodowego ze skutkami zdrowotnymi
+* istniej¹ poœrednie dowody wskazuj¹ce na wystêpowanie efektu stresu zawodowego, pochodz¹ce z badañ warunków pracy i wskazuj¹ce na ró¿nice w stanie zdrowia i œmiertelnoœci, niewystarczaj¹co wyjaœniane przez inne czynniki
+* istniej¹ równie¿ badania podmiotowe wskazuj¹ce na zwi¹zek przyczynowo-skutkowy miêdzy sytuacj¹ zawodow¹ a reakcjami psychologicznymi i emocjonalnymi.
+* Europejska Agencja ds. Bezpieczeñstwa i Zdrowia w Pracy tak¿e dosz³a do podobnych wniosków (EU-OSHA, 2000).
+* Zagro¿enia psychospo³eczne mog¹ wp³ywaæ zarówno na zdrowie psychiczne, jak i somatyczne, w sposób bezpoœredni lub poœredni poprzez mechanizm stresu, za poœrednictwem modelu dwutorowego oddzia³ywania ryzyko-szkoda.
+
+## 38. Wypalenie zawodowe
+
+##### Proces wypalenia zawodowego
+
+* Konsekwencja destrukcji zachodz¹cej w psychice osób nadmiernie eksploatuj¹cych swoje si³y w dawaniu siebie innym.
+* Dotyczy zawodów spo³ecznych i us³ugowych zarazem, gdzie przedmiotem oddzia³ywañ s¹ relacje interpersonalne, polegaj¹ce na wymianie emocjonalnej i zaanga¿owaniu.
+* W literaturze anglojêzycznej tê grupê zawodów okreœla siê mianem human service professions lub te¿ w skrócie helping professions .
+* **PARADOKS** - te same w³aœciwoœci zawodowe mog¹ byæ Ÿród³em ogromnej satysfakcji i jednoczeœnie staæ siê powodem du¿ych obci¹¿eñ i stresu, a w konsekwencji rozwoju zespo³u wypalenia zawodowego.
+
+#### A. Proces wypalenia zawodowego –model stresu Lazarusa i Folkman
+
+**Objawy wypalenia wystêpuj¹ u osób pracuj¹cych w warunkach przewlek³ego stresu spo³ecznego, który jest rozumiany jako:**
+
+* sekwencja interpretacji i wartoœciowania stresorów (ocena pierwotna),
+* ocena w³asnych kompetencji i zasobów (ocena wtórna)
+* ocena skutecznoœci zmagania siê (w³asna aktywnoœæ zaradcza)
+* **W tej koncepcji widaæ, ¿e mechanizm wypalenia zawodowego dzia³a na zasadzie b³êdnego ko³a przyczyn i skutków**
+
+#### B. Koncepcja wielowymiarowego wypalenia zawodowego (Maslach)
+
+* **Powi¹zanie trzech wymiarów:**
+* _Emocjonalne i psychofizyczne wyczerpanie_: bezsilnoœæ, brak energii, os³abienie, zmêczenie, dra¿liwoœæ, konfliktowoœæ
+* _Depersonalizacja_: przedmiotowe traktowanie, cynizm, obojêtnoœæ, rutyna, traktowanie pacjenta jako kolejnego przypadku, zmiana opieki na nadzór, unikanie kontaktu;
+* _Obni¿ona satysfakcja zawodowa:_ postrzegania siebie jako osoby nieefektywnej, niekompetentnej, z poczuciem braku osi¹gniêæ i sukcesów, utraty sensu tego, co siê robi.
+
+#### C. Zjawisko wypalenia zawodowego wœród personelu medycznego
+
+_Efekt trudnej sytuacji, w której czynniki œrodowiskowe maj¹ du¿e znaczenie_
+
+* _**Podstawowe uwarunkowania WZ:**_
+*  _Poczucie braku kontroli prowadz¹ce do wyczerpania emocjonalnego._ **Przyk³ad**: w codziennej pracy pielêgniarka ma ograniczony wp³yw na powrót do zdrowia i wspó³pracê z pacjentami. Dodatkowym obci¹¿eniem s¹ zmienne decyzyjne lekarskie i administracyjne co w konsekwencji rodzi konflikty.
+*  _Niepewnoœæ zwi¹zana z wykonywaniem zadañ zawodowych._ Wynika ona z poczucia w¹tpliwoœci odnoœnie w³asnych umiejêtnoœci.
+*  _Poczucie niespe³nienia oczekiwañ._ Szczególnie widoczne jest w dysproporcji pomiêdzy tym, co inwestuj¹ w pacjentów, a tym, co otrzymuj¹.
+*  _Stres pracy zmianowej._ Wynikaj¹cy g³ównie z zaburzenia rytmu oko³odobowego i wymagañ sta³ej gotowoœci, wysokiego profesjonalizmu niezale¿nie od pory dnia.
+
+#### C1. Wypalenie zawodowe u pracowników oddzia³ów onkologicznych
+
+* Ogl¹danie œmierci jest dla wiêkszoœci niezwykle dotkliwym doznaniem emocjonalnym (smutek po stracie, gniew, bezradnoœæ).
+* Czêste obcowanie ze œmierci¹ wywiera ogromny wp³yw na personel medyczny.
+* Krañcowe zmêczenie fizyczne i emocjonalne, negatywny b¹dŸ wrogi stosunek do innych osób lub brak inicjatywy.
+* Popadanie w stany znu¿enia i depresji, manifestuj¹ce siê w nadu¿ywaniu alkoholu, zaostrzonym na³ogu tytoniowym, lekomanii, narkomanii.
+* Czêsto obserwuje siê zmiany o charakterze nowotworowym (Maslach i Jackson, 1982).
+
+
+
+## 39. Komunikacja w pracy
+
+**Komunikacja jest dwustronnym przekazywaniem informacji, idei, uczuæ za pomoc¹ symboli werbalnych i niewerbalnych**
+
+`no shit, Sherlock XD`
+
+#### Komunikacja interpersonalna 
+
+* jest czymœ, co wydarza siê pomiêdzy ludŸmi, a nie tylko czymœ, co jedna osoba przekazuje za pomoc¹ s³ów b¹dŸ gestów drugiej osobie (dynamiczny proces).
+interpersonalnaJohn Stewart definiuje komunikacjê interpersonaln¹ jako:
+
+> taki typ, jakoœæ lub rodzaj kontaktu, który pojawia siê kiedy osoby mówi¹ lub s³uchaj¹ w sposób maksymalizuj¹cy to, co osobiste. 
+
+## 40. Kierowanie ludŸmi - przewodzenie
+
+   * **Funkcje kierownicze**:
+* Planowanie
+* Organizowanie
+* Kontrolowanie
+   * **Psychologiczne w³aœciwoœci skutecznych dzia³añ kierowniczych:**
+* Asertywnoœæ
+* Motywacja
+* Twórczoœæ
+* Krytycyzm
+* Ekstrawersja
+* Brak zniekszta³ceñ patologicznych - dewiacji
+
+## 41. Komunikacja w grupie zadaniowej
+
+* Osi¹gniêcie wspólnego celu nadrzêdne wobec celów i potrzeb indywidualnych.
+* Wymaga wiêkszej wspó³pracy i lepszego wzajemnego dostosowania ni¿ rozmowa w warunkach bardziej kameralnych.
+* Struktura dyskusji w grupach czêsto opiera siê na sztywnych zasadach – obrady vs swobodna przyjacielska rozmowa.
+* Okreœlona struktura ma swoje uzasadnienie: s³u¿y studzeniu emocji, pozwala dojœæ do g³osu opozycji oraz systematycznie przybli¿a dyskusjê do rozwi¹zania.
+
+## 42. Jak zostaæ liderem?
+
+`bardziej interesowa³oby mnie jak zostaæ dilerem, ale ok.`
+
+* Aby skutecznie kierowaæ pracownikami –podw³adnymi nale¿y najpierw nauczyæ siê kierowaæ sob¹ i postêpowaæ optymalnie.
+* ¯eby móc poznaæ ludzi –trzeba poznaæ siebie
+* Aby oceniaæ innych – najpierw oceñ siebie
+* Jeœli chcesz rozpoznaæ czyjeœ emocje –musisz poznaæ swoje emocje i mieæ je nazwaæ
+
+`XD co to za ko³czingowe bzdury s¹`
+
+**Lider doskona³y**:
+
+* Liderzy nie rodz¹ siê, lecz kszta³tuj¹
+* Mo¿esz nauczyæ siê pe³niæ kierownicz¹ funkcje
+* Nie mo¿na byæ liderem w osamotnieniu; potrzebujesz tych, którzy potrzebuj¹ przywódcy
+* Przewodzenie wi¹¿e siê z wyrazami szacunku, a niekoniecznie sympatii
+* Musisz znaleŸæ w³asny sposób przewodzenia
+* Liderzy ucz¹ siê, dojrzewaj¹, poznaj¹ samych siebie i wiedz¹, czego chc¹
+
+**"Wielka siódemka” (zasady sprawowania kierowniczej funkcji)**
+
+* Wnikliwoœæ
+* Unicjatywa
+* Inspiracja
+* Zaanga¿owanie
+* Improwizacji
+* Indywidualnoœæ
+* Realizacja
+
+
+## 43. Role w grupach zadaniowych
+
+* _**Cz³onkowie**_:
+    * **inicjatorzy** - zabieraj¹ g³os pierwsi. Inicjuj¹ dyskusje, dostarczaj¹c faktów, dziel¹ siê odpowiednimi informacjami i doœwiadczeniami oraz wypowiadaj¹ swoje opinie
+    * **respondenci** - s³uchaj¹ i reaguj¹ na to, co s³ysz¹, podsumowuj¹c i rozwijaj¹c dany temat. Oceniaj¹ informacje, krytykuj¹ propozycje oraz zadaj¹ pytania.
+* Przez ca³y czas trwania dyskusji cz³onkowie grupy na zmianê inicjuj¹ i reaguj¹ na treœæ. Obie role s¹ równie wa¿ne i niezbêdne w zachodz¹cym procesie.
+* Niekiedy jednak równowaga tych ról mo¿e zostaæ zaburzona.
+* Utrzymanie równowagi jest jednym z zadañ lidera grupy.
+    * **Liderzy** - ro¿ne role lidera, w zale¿noœci od sytuacji i potrzeb grupy:
+* jest organem wykonawczym (ustala zasady, plan zebrañ, terminy spotkañ)
+* planuje
+* ustala politykê grupy (wskazówki dla zarz¹du, ogólne zasady)
+* jest ekspertem
+* jest przedstawicielem grupy na zewn¹trz (reprezentuje grupê wobec œwiata zewnêtrznego)
+* wp³ywa na relacje pomiêdzy cz³onkami grupy (³¹czy i rozdziela poszczególne osoby, awansuje i degraduje)
+* przyznaje nagrody i wymierza kary (chwali, krytykuje, za zas³ugi przydziela funkcje i role zadaniowe)
+* jest arbitrem
+* jest przyk³adem (s³u¿y jako wzorzec w³aœciwego zachowania w grupie)
+
+
+## 44. Bariery utrudniaj¹ce komunikacje w grupach zadaniowych:
+
+**Zapominanie o w³aœciwej hierarchii potrzeb w grupie.**
+
+* _**Agresorzy**_ – atakowanie innych cz³onków grupy; w³asna wygrana wa¿niejsza od sukcesu grupy.
+* _**Defetyœci**_ - przekonani, ¿e istniej¹cych problemów nie da siê rozwi¹zaæ. Sabotowanie postêpu.
+* _**Gwiazdy**_ – skupianie na sobie ca³ej uwagi grupy.
+* _**Gawêdziarze**_ – skupianie siê na sprawach marginalnych i nieistotnych.
+* _**Klowni**_ – chêæ zabawiania i innych jest wa¿niejsza ni¿ cel grupy.
+* _**Zwierzchnicy**_ – wol¹ rz¹dziæ ni¿ rozwi¹zywaæ problemy.
+* _**Fanatycy**_ – odnoszenie wszystkiego do w³asnej obsesji, niezale¿nie od tego jaki jest cel grupy.
+
+## 45. Zasady skutecznego funkcjonowania grup zadaniowych
+
+`jezu jakie bana³y to s¹ nie mam na to s³ów`
+
+* Ustal cel spotkania grupy.
+* Uœwiadom sobie swoje opinie.
+* S³uchaj.
+* Bierz czynny udzia³.
+* Zachowaj zimna krew.
+
+## 46. Mobbingi dyskryminacja w miejscu pracy
+
+> Mobbing to d³ugotrwa³y (co najmniej przez 6 miesiêcy, co najmniej raz w tygodniu) terror psychiczny stosowany w pracy wobec jednostki.
+
+> Mobbing to rodzaj terroru psychicznego, stosowanego przez jedn¹ lub kilka osób przeciwko (przewa¿nie) jednej osobie. Molestowanie psychiczne powtarza siê systematycznie zaœ osoba maltretowania pozbawiona jest mo¿liwoœci obrony. W tej sytuacji bezradnoœci i bezsilnoœci pozostaje tak d³ugo, jak d³ugo utrzymuj¹ siê dzia³ania mobbingowew jej kierunku.
+
+#### MOBBING TO PROCES:
+
+* Przemocy i nêkania (drêczenia) psychicznego pracownika
+* Trwaj¹cy d³ugo i systematycznie
+* Godz¹cy w godnoœæ i integralnoœæ cz³owieka
+* Maj¹cy na celu: poni¿enie, oœmieszenie, zani¿enie samooceny, wyeliminowanie lub odizolowanie pracownika od wspó³pracowników
+
+#### Przyczyny mobbingu:
+
+**Wymienia siê nastêpuj¹ce grupy przyczyn sprzyjaj¹cych wyst¹pieniu u mobbingu**:
+
+* przyczyny spo³eczne,
+* cechy zarz¹dzaj¹cego organizacj¹,
+*szczególna pozycja spo³eczna ofiary mobbingu.
+
+#### Miejsce wystêpowania:
+* Z przemoc¹ psychiczn¹ mamy do czynienia tam, gdzie ludzie przebywaj¹ ze sob¹ w
+grupie przez d³u¿szy czas –w szkole, wy¿szej uczelni, w miejscu pracy, w
+stowarzyszeniach i wspólnotach a tak¿e w rodzinie.
+
+#### Narzêdzia jakimi pos³uguje siê mobbing to:
+* szykany, zwodzenie, podstêp i intryga, k³amstwa, plotki, oszczerstwa, zachowania
+sadystyczne. Ich wyst¹pieniu sprzyja taka organizacja pracy, gdzie osobê traktuje siê
+instrumentalnie.
+
+**Pojêcie _bullying_ zarezerwowane jest dla opisania zjawisk przemocy w szkole, w grupach dzieci i m³odzie¿y, gdzie poza agresj¹ psychiczn¹ wystêpuj¹ akty przemocy fizycznej, która w przypadku mobbingu jest spotykana bardzo rzadko.**
+
+#### FAZY MOBBINGU:
+
+   * **Faza wczesna z faz¹ rozszerzania siê mobbingu**:
+* Faza powstawania nierozwi¹zywanych konfliktów. Osoba, która zaczyna
+byæ poddawana mobbingowipodejmuje racjonalne, choæ nieskuteczne
+próby przyczynienia siê do z³agodzenia czy rozwi¹zania konfliktu.
+* Pojawienie siê typowych dzia³añ mobbingowych.
+* Pojawienie siê przewlek³ego z³ego samopoczucia ofiary i codzienny
+strach przed pójœciem do pracy oraz ci¹g³e stany napiêcia nerwowego
+prowadz¹ce do reakcji stresowej.
+* Organizm wysy³a sygna³y alarmowe -bóle g³owy, bóle brzucha, bóle za mostkowe. Z czasem do objawów do³¹czaj¹: Nudnoœci, wymioty, wzrost ciœnienia têtniczego krwi, bezsennoœæ, zaburzenia koncentracji i stany lêkowe oraz depresyjne.
+* Czêsto nadu¿ywanie alkoholu przez ofiarê, leków uspokajaj¹cych czy nasennych lub Innych u¿ywek.
+
+   * **Faza “stabilnego mobbingu”**
+* trwale wyznaczenie roli “koz³a ofiarnego”.
+* Stygmatyzacja, zakwalifikowanie jako: m¹drala, k³amca, krêtacz, nadwra¿liwiec lub pieniacz.
+* Prze³o¿ony stosuje: niesprawiedliwe napomnienia, straszenie, degradacjê pozycji w grupie przez przydzielanie mniej wa¿nych zadañ, czêsto poni¿ej kompetencji i umiejêtnoœci.
+* Ci¹g³e nieuzasadnione pretensje i oskar¿enia w œrodowisku pracy, poczucie ca³kowitej bezsilnoœci, mo¿e u niektórych z przeœladowanych osób wyzwoliæ zachowania agresywne.
+* S¹ one jednak k³adzione na karb dziwnoœci nadwra¿liwca, pieniacza i odmieñca, a wiêc nie spe³niaj¹ roli obronnej.
+* Objawy i dolegliwoœci psychosomatyczne zaostrzaj¹ siê i bezwzglêdnie wymagaj¹ interwencji lekarskiej. Mog¹ siê rozwin¹æ choroby takie jak: choroba wrzodowa, zawa³ miêœnia serowego, udar mózgu, astma oskrzelowa.
+
+    * **Faza zaawansowana**:
+* Poszkodowana osoba nie potrafi sprostaæ stawianym jej wymaganiom zawodowym i spo³ecznym.
+* Œwiadomoœæ tego faktu oraz zagro¿enie utrat¹ pracy a co za tym idzie pozycji spo³ecznej i œrodków do ¿ycia powoduje stany depresyjne lub, przeciwnie, niekontrolowane wybuchy wœciek³oœci i agresji kierowanej przeciwko wspó³pracownikom. Dalsze zatrudnienie na zajmowanym stanowisku jest niemo¿liwe, teraz ju¿ z przyczyn obiektywnych.
+* Co dziesi¹ty pracownik ma w zaawansowanej fazie mobbingumyœli samobójcze a co setny podejmuje próbê samobójcz¹.
+* Schorzenie, opisywane przez psychiatrów jako potraumatycznestany lêkowe (PTSD-posttraumaticstressdisorder) wystêpuj¹ce u takich osób porównywane jest przez specjalistów do stanu, jaki opisywano u osób, które przesz³y doœwiadczenie obozu koncentracyjnego.
+
+    * **Faza zaawansowana**:
+* Poszkodowana osoba nie potrafi sprostaæ stawianym jej wymaganiom zawodowym i spo³ecznym.
+* Œwiadomoœæ tego faktu oraz zagro¿enie utrat¹ pracy a co za tym idzie pozycji spo³ecznej i œrodków do ¿ycia powoduje stany depresyjne lub, przeciwnie, niekontrolowane wybuchy wœciek³oœci i agresji kierowanej przeciwko wspó³pracownikom. Dalsze zatrudnienie na zajmowanym stanowisku jest niemo¿liwe, teraz ju¿ z przyczyn obiektywnych.
+* Co dziesi¹ty pracownik ma w zaawansowanej fazie mobbingumyœli samobójcze a co setny podejmuje próbê samobójcz¹.
+* Schorzenie, opisywane przez psychiatrów jako potraumatycznestany lêkowe (PTSD-post traumatic stress disorder) wystêpuj¹ce u takich osób porównywane jest przez specjalistów do stanu, jaki opisywano u osób, które przesz³y doœwiadczenie obozu koncentracyjnego.
+
+## 47. Bezrobocie i pracoholizm
+
+* _**Bezrobocie jako kwestia spo³eczna**_ – dotyczy du¿ych grup spo³ecznych, jest odbierana przez tê grupê jako nieprawid³owe, zak³óca jej prawid³owy rozwój, wywo³uje spo³eczny niepokój, jest Ÿród³em napiêæ spo³ecznych. Nie mo¿e byæ w pe³ni rozwi¹zane w ramach grupy przy wykorzystaniu dostêpnych jej metod i mo¿liwoœci, mo¿e byæ rozwi¹zane tylko drog¹ podjêcia szerokich dzia³añ przez pañstwo.
+* Bezrobotny to cz³owiek, który chce pracowaæ i aktywnie poszukuje pracy, ale nie mo¿e utrzymaæ zatrudnienia przy istniej¹cych stawkach p³acy.
+
+`w jakim œwiecie niby XD`
+
+   * Wyró¿niamy dwa rodzaje bezrobocia:
+   
+* **bezrobocie dobrowolne** - spowodowane jest tym ¿e czêœæ pracowników poszukuj¹cych pracy nie akceptuje poziomu p³acy realnej s¹ sk³onni pracowaæ przy wy¿szej stawce, a pracodawcy gotowi s¹ ich zatrudniæ poni¿ej p³acy realnej. Zjawisko to jest g³ównym powodem powstawania tej odmiany bezrobocia gdzie preferencje si³y roboczej nie pokrywaj¹ siê z rachunkiem op³acalnoœci pracodawców
+* **bezrobocie przymusowe** - czyli niezale¿ne od zachowania bezrobotnych. Ekonomia klasyczna t³umaczy je tym, ¿e istnienie ustawowej gwarancji p³acy minimalnej, zafa³szowuje sygna³y na rynku pracy, stan równowagi rynkowej zostaje zniekszta³cony, nawet przy spadku cen i popytu, wzroœcie bezrobocia, place i tym samym koszty nie malej¹, poprzez strajki zwi¹zki zawodowe wymuszaj¹ stawki powy¿ej wolnej ceny rynkowej
+
+####Podzia³ bezrobocia ze wzglêdu na przyczyny:
+
+* **bezrobocie strukturalne** - które charakteryzuje siê zastojem gospodarczym i nowe roczniki nap³ywaj¹ce na rynek pracy nie mog¹ jej znaleŸæ. Istnienie wiec samego zjawiska bezrobocia t³umaczone jest tym ¿e chêæ podjêcia pracy i zg³oszonej jej poda¿y nie daje siê w pe³ni urzeczywistniæ
+* **bezrobocie technologiczne** – wynika ze zmiany techniki, technologii, oraz z zast¹pienia pracy ¿ywej prac¹ maszyn, 
+* **bezrobocie koniunkturalne** - Keynesowska teoria przymusowego bezrobocia przyjmuje ¿e jest ono wywo³ane zbyt ma³ym popytem konsumpcyjnym i inwestycyjnym, który powoduje zbyt ma³e wykorzystanie zdolnoœci produkcyjnych, poziom popytu stale ulega wahaniom, czyli jest zale¿ny od koniunktury, stad nazwa bezrobocia. W fazach wysokiej koniunktury popyt rozszerza siê i bezrobocie spada nawet do poziomu bezrobocia naturalnego. 
+* **bezrobocie frykcyjne** - obejmuj¹ce równie¿ ludzi zmieniaj¹cych prace, przejœciowo jej poszukuj¹cych z ro¿nych powodów. 
+* **bezrobocie sezonowe** – uzale¿nione od pór roku (np. budownictwo)
+ 
+     * Ze wzglêdu na formê wystêpowania bezrobocia wyró¿niamy:
+     
+
+* **bezrobocie krótkookresowe** - do 3 miesiêcy bez zatrudnienia.
+* **bezrobocie œredniookresowe** – od 3 do 12 miesiêcy bez zatrudnienia. 
+* **bezrobocie d³ugookresowe** – dotyczy osób. które pozostaj¹ bez pracy od 6 do 12 miesiêcy.
+
+_To ostatnie mo¿e przekszta³ciæ siê w **bezrobocie d³ugotrwa³e**, bowiem czym d³u¿sza przerwa w pracy, tym malej¹ szanse na ponowne jej uzyskanie. Rosn¹ce wymagania pracodawców, zmiany technik i organizacji pracy, koniecznoœæ uzupe³niania kwalifikacji lub w ogóle zmiany zawodu nie sprzyjaj¹ skracaniu okresu pozostawania bez pracy_
+
+**D³u¿sze pozostawanie bez pracy powoduje, ¿e ewentualni kandydaci staj¹ siê, ze wzglêdu na dezaktualizacjê swoich wiadomoœci i doœwiadczeñ, ma³o interesuj¹cy dla pracodawców.**
+  
+     * Ponadto wyró¿niamy:
+     
+* **bezrobocie ukryte** –rozumiane jako bezrobocie wœród zatrudnionych. Dotyczy ludzi nie ujêtych w statystykach bezrobocia, poniewa¿ nie rejestruj¹ siê w urzêdach pracy. Osoby te posiadaj¹ dochód, ale nie maj¹ zawartego stosunku ubezpieczeniowego. Wystêpuje g³ównie na wsi (nadmiar r¹k do pracy, dawniej –przerost administracji).
+* **bezrobocie jawne** – zarejestrowane (da siê okreœliæ).
+
+###Pracoholizm
+
+> To obsesyjno-kompulsyjna forma zaburzeñ zachowania, przejawiaj¹ca siê w przymusie nieustannego zaanga¿owania w pracê lub inn¹ aktywnoœæ o charakterze pracy 
+
+(Wojdy³o, 2005)
+
+    * W zale¿noœci od przyczyn wyró¿niamy:
+
+* _**Pracoholizm osobowoœciowy**_ – chroniczne uzale¿nienie, zwi¹zane z obsesyjno-kompulsyjnymtypem osobowoœci i charakterystycznymi dla niej cechami psychicznymi (upór, ambicja, perfekcjonizm, samokontrola, sztywnoœæ, drobiazgowoœæ)
+* _**Pracoholizm sytuacyjny**_ (tzw. pseudopracoholizm), który ma charakter przejœciowy (trwa do czasu oddzia³ywania stresorów), reaktywny i strategiczny (bazuje na mechanizmach radzenia sobie z sytuacja trudn¹)
+
+#####W³aœciwoœci pracoholizmu:
+* Wewnêtrzny przymus pracy zwi¹zany z cechami osobowoœci obsesyjno-kompulsyjnej(anankastycznej), który sprawia, ¿e ma³a iloœæ pracy odczuwana jest jako przeci¹¿enie
+* Przeci¹¿enie prac¹ (lecz nie obci¹¿enie ni¹)
+* Odniesienie do ka¿dej aktywnoœci ukierunkowanej na cel, postrzeganej przez jednostkê jako praca
+* Odniesienie do ró¿nych pozycji zawodowych (nie tylko kierowniczych)
+* Obecnoœæ fizjologicznego komponentu –uzale¿nienie od adrenaliny wyzwalanej w sytuacji stresu
+* Wystêpowanie objawów psychosomatycznych –bóle i zawroty g³owy, zmêczenie, alergie, dolegliwoœci ¿o³¹dkowe, tiki nerwowe.
+
+#####Klasyfikacja pracoholizmu
+(Robinson, Wojdy³o, Fr¹szczak)
+
+* **Niestrudzeni, nieustêpliwi pracoholicy** – to perfekcjoniœci, odczuwaj¹cy silny przymus pracy, realizuj¹cy równoczeœnie wiele ró¿nych czynnoœci. Ich celem jest efektywnoœæ i jakoœæ pracy. Odczuwaj¹ siln¹ potrzebê aprobaty spo³ecznej.
+* **„Bulimiczni” pracoholicy** – mechanizm ich dzia³ania to oscylowanie miêdzy bezczynnoœci¹ a stanami intensywnej aktywnoœci. Nie pracuje przez d³ugi czas a potem pod presja czasu rzuca siê w wir zadañ. Baz¹ takich zachowañ jest chêæ unikniêcia niepowodzenia, lêk przed niezrealizowaniem zadania w sposób perfekcyjny.
+* **Pracoholicy z deficytem koncentracji uwagi** – ceni¹ ryzyko i wyzwania. Szybko siê nudz¹, przejawiaj¹ trudnoœci z koncentracja na pracy (czêsto pracuj¹ nad kilkoma zadaniami, nie koñcz¹c ich, przerzucaj¹ uwagê na kolejne zadania), nieustannie poszukuj¹ stymulacji. Lubi¹ sporty ekstremalne (skoki ze spadochronem i niebezpieczne sytuacje (gra na gie³dzie).
+* **Pracoholicy „rozkoszuj¹cy siê prac¹”** – dzia³aj¹ metodycznie, powoli i z rozwag¹. Wysoka jakoœæ pracy i silna potrzeba perfekcjonizmu, co utrudnia realna ocenê koñcowych efektów dzia³ania. Nieœwiadomie generuj¹ kolejna listê czynnoœci i zadañ „koniecznych” do wykonania. Wszystko to opóŸnia realizacje projektu. S¹ nisko wydajni i drobiazgowi. S¹ postrzegani jako osoby trudne we wspó³pracy.
+* **Troskliwi pracoholicy** – charakterystyczni dla profesji, w których nadrzêdna wartoœæ stanowi pomoc innym ludziom. (duchowni, lekarze, nauczyciele). Prospo³eczna dzia³alnoœæ pozwala im czuæ siê potrzebnym, co tym samym zapewnia w³aœciwy poziom samooceny i samoakceptacji.
+
+_**Pracownik optymalny vs pracownik uzale¿niony – ró¿nice na poziomie:**_
+
+* Poziomie motywacji
+* Intensywnoœæ relacji spo³ecznych
+* Jakoœæ pracy
+
+_**Pracownik optymalny**_ – potrafi wspó³pracowaæ, ciesz¹ go wyniki pracy, jest efektywny, zmotywowany wewnêtrznie, nie boi siê ryzyka, uczy siê na b³êdach, jest towarzyski.
+
+_**Pracoholik**_ – najlepiej pracuje sam, pracuje dla samego faktu pracy, motywowany jest lekiem przed utrat¹ pracy i statusu, jest ma³o efektywny, zaabsorbowany szczegó³ami, unika ryzyka ( w tym twórczych i innowacyjnych pomys³ów i rozwi¹zañ), ma niska tolerancje b³êdów, a gdy je pope³ni ma tendencjê do ich ukrywania, nie ma przyjació³ a jeœli ju¿ to w miejscu pracy.
+
+## 48. Dehumanizacja pracy
+
+* **Dehumanizacja** (³ac. humanus –ludzki) oznacza dos³ownie odcz³owieczenie.
+* Dehumanizacja to postrzeganie cz³owieka jako przedmiotu pozbawionego uczuæ i emocji. Traktuje siê cz³owieka bezosobowo –jako „to”, a nie „ty”.
+* Dehumanistyczny stosunek do innych jest obiektywny, analityczny, pozbawiony empatycznych reakcji.
+* Proces dehumanizacjichroni jednostkê przed pobudzeniem emocjonalnym, które mog³oby byæ przykre, przyt³aczaj¹ce, odbieraj¹ce si³y lub mog³oby zak³ócaæ realizowane w danej chwili zadanie. Normalni ludzie, np. ¿o³nierze, musz¹ czasami odcz³owieczyæ innych (przeciwnika), by móc zabijaæ na wojnie. Dehumanizacja wroga pozwala podwa¿yæ zasadê „Nie zabijaj!
+* Nowoczesne technologie, automatyzacja, komputeryzacja
+
+## 49. Jakoœæ ¿ycia `<333` w zawodach wysokiego ryzyka
+
+* Zawody trudne i niebezpieczne
+* Stanowiska wymagaj¹ce szczególnej sprawnoœci psychofizycznej
+* Praca z nara¿eniem ¿ycia (materia³y wybuchowe, prad elektryczny, praca na wysokoœci, ¿ywio³y)
+* Praca z zagro¿eniem dla innych
+* Praca z wysokim obci¹¿eniem psychicznym
+* Obs³uga urz¹dzeñ wymagaj¹cych szczególnych predyspozycji psychofizycznych
+* Stra¿ak, górnik, pilot, ratownik górski, policjant, kierowca, kontroler ruchu
+
+
+
+
+#K O N I E C 
+
+
+
+
+
