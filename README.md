@@ -5,7 +5,7 @@ Tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych 
 
 ### OTO ONE
 
-##### 1. Psychologia pracy [**right here**](notatki/psych_pracy.Rmd)
+##### 1. Psychologia pracy [**right here**](https://github.com/ag1zywert/notatki/blob/master/psych_pracy.Rmd)
 
 Narazie chyba tyle w miarę możliwości będę dodawać resztę, pozdrowienia
 
