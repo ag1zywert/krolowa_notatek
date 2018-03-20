@@ -783,7 +783,7 @@ prowadzące do reakcji stresowej.
 * **bezrobocie dobrowolne** - spowodowane jest tym że część pracowników poszukujących pracy nie akceptuje poziomu płacy realnej są skłonni pracować przy wyższej stawce, a pracodawcy gotowi są ich zatrudnić poniżej płacy realnej. Zjawisko to jest głównym powodem powstawania tej odmiany bezrobocia gdzie preferencje siły roboczej nie pokrywają się z rachunkiem opłacalności pracodawców
 * **bezrobocie przymusowe** - czyli niezależne od zachowania bezrobotnych. Ekonomia klasyczna tłumaczy je tym, że istnienie ustawowej gwarancji płacy minimalnej, zafałszowuje sygnały na rynku pracy, stan równowagi rynkowej zostaje zniekształcony, nawet przy spadku cen i popytu, wzroście bezrobocia, place i tym samym koszty nie maleją, poprzez strajki związki zawodowe wymuszają stawki powyżej wolnej ceny rynkowej
 
-####Podział bezrobocia ze względu na przyczyny:
+#### Podział bezrobocia ze względu na przyczyny:
 
 * **bezrobocie strukturalne** - które charakteryzuje się zastojem gospodarczym i nowe roczniki napływające na rynek pracy nie mogą jej znaleźć. Istnienie wiec samego zjawiska bezrobocia tłumaczone jest tym że chęć podjęcia pracy i zgłoszonej jej podaży nie daje się w pełni urzeczywistnić
 * **bezrobocie technologiczne** – wynika ze zmiany techniki, technologii, oraz z zastąpienia pracy żywej pracą maszyn, 
@@ -807,7 +807,7 @@ _To ostatnie może przekształcić się w **bezrobocie długotrwałe**, bowiem c
 * **bezrobocie ukryte** –rozumiane jako bezrobocie wśród zatrudnionych. Dotyczy ludzi nie ujętych w statystykach bezrobocia, ponieważ nie rejestrują się w urzędach pracy. Osoby te posiadają dochód, ale nie mają zawartego stosunku ubezpieczeniowego. Występuje głównie na wsi (nadmiar rąk do pracy, dawniej –przerost administracji).
 * **bezrobocie jawne** – zarejestrowane (da się określić).
 
-###Pracoholizm
+### Pracoholizm
 
 > To obsesyjno-kompulsyjna forma zaburzeń zachowania, przejawiająca się w przymusie nieustannego zaangażowania w pracę lub inną aktywność o charakterze pracy 
 
@@ -818,7 +818,7 @@ _To ostatnie może przekształcić się w **bezrobocie długotrwałe**, bowiem c
 * _**Pracoholizm osobowościowy**_ – chroniczne uzależnienie, związane z obsesyjno-kompulsyjnymtypem osobowości i charakterystycznymi dla niej cechami psychicznymi (upór, ambicja, perfekcjonizm, samokontrola, sztywność, drobiazgowość)
 * _**Pracoholizm sytuacyjny**_ (tzw. pseudopracoholizm), który ma charakter przejściowy (trwa do czasu oddziaływania stresorów), reaktywny i strategiczny (bazuje na mechanizmach radzenia sobie z sytuacja trudną)
 
-#####Właściwości pracoholizmu:
+##### Właściwości pracoholizmu:
 * Wewnętrzny przymus pracy związany z cechami osobowości obsesyjno-kompulsyjnej(anankastycznej), który sprawia, że mała ilość pracy odczuwana jest jako przeciążenie
 * Przeciążenie pracą (lecz nie obciążenie nią)
 * Odniesienie do każdej aktywności ukierunkowanej na cel, postrzeganej przez jednostkę jako praca
@@ -826,7 +826,7 @@ _To ostatnie może przekształcić się w **bezrobocie długotrwałe**, bowiem c
 * Obecność fizjologicznego komponentu –uzależnienie od adrenaliny wyzwalanej w sytuacji stresu
 * Występowanie objawów psychosomatycznych –bóle i zawroty głowy, zmęczenie, alergie, dolegliwości żołądkowe, tiki nerwowe.
 
-#####Klasyfikacja pracoholizmu
+##### Klasyfikacja pracoholizmu
 (Robinson, Wojdyło, Frąszczak)
 
 * **Niestrudzeni, nieustępliwi pracoholicy** – to perfekcjoniści, odczuwający silny przymus pracy, realizujący równocześnie wiele różnych czynności. Ich celem jest efektywność i jakość pracy. Odczuwają silną potrzebę aprobaty społecznej.
