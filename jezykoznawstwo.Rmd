@@ -1,5 +1,5 @@
 ---
-title: "Jêzykoznawstwo"
+title: "JÄ™zykoznawstwo"
 author: "Agata Zywert"
 date: "20 marca 2018"
 output: html_document
@@ -9,42 +9,42 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### **CZY WIEDZA O JÊZYKU (POLSKIM) JEST POTRZEBNA PSYCHOLOGOM?**
+### **CZY WIEDZA O JÄ˜ZYKU (POLSKIM) JEST POTRZEBNA PSYCHOLOGOM?**
 `NIE`
-`nie no ¿art`
-`wiedza o jêzyku jest potrzebna wszystkim, bo inaczej wszyscy bêd¹`
-`tak kalecznie mówiæ jak ja - np. nie bêd¹ znali s³owa zastêpczego na s³owo pojebaæ no xD nie róbcie tego`
-`ps. tu pojawiaj¹ siê takie pytania, czy cz³owiekowi,` 
-`który uprawia karate potrzebna jest wiedza o fizjologii nwm jaka by³a odpowiedz`
+`nie no Å¼art`
+`wiedza o jÄ™zyku jest potrzebna wszystkim, bo inaczej wszyscy bÄ™dÄ…`
+`tak kalecznie mÃ³wiÄ‡ jak ja - np. nie bÄ™dÄ… znali sÅ‚owa zastÄ™pczego na sÅ‚owo pojebaÄ‡ no xD nie rÃ³bcie tego`
+`ps. tu pojawiajÄ… siÄ™ takie pytania, czy czÅ‚owiekowi,` 
+`ktÃ³ry uprawia karate potrzebna jest wiedza o fizjologii nwm jaka byÅ‚a odpowiedz`
 
-### **W JAKIM STOPNIU WIEDZA O JÊZYKU JEST POTRZEBNA PSYCHOLOGOM?**
+### **W JAKIM STOPNIU WIEDZA O JÄ˜ZYKU JEST POTRZEBNA PSYCHOLOGOM?**
 
-* dzia³alnoœæ zawodowa = praca z jêzykiem, mow¹ (funkcjami jêzykowymi).
-* Psycholog zawodowo **ws³uchuje** siê w to, co mówi¹ inni. 
-* W  praktyce **obserwuje** mowê  ludzk¹, **okreœla** poziom komunikacji dziecka lub doros³ego.
-* Czêœciowo (najczêœciej we wspó³pracy z innymi specjalistami) **identyfikuje** nieprawid³owoœci jêzyka w u¿yciu.
-* **D¹¿y** do  zapewnienia  pacjentowi  takiego  stanu  narzêdzia  komunikacyjnego, jakim jest jêzyk, aby kontakt z drugim cz³owiekiem nie stanowi³y dla niego bariery.
+* dziaÅ‚alnoÅ›Ä‡ zawodowa = praca z jÄ™zykiem, mowÄ… (funkcjami jÄ™zykowymi).
+* Psycholog zawodowo **wsÅ‚uchuje** siÄ™ w to, co mÃ³wiÄ… inni. 
+* W  praktyce **obserwuje** mowÄ™  ludzkÄ…, **okreÅ›la** poziom komunikacji dziecka lub dorosÅ‚ego.
+* CzÄ™Å›ciowo (najczÄ™Å›ciej we wspÃ³Å‚pracy z innymi specjalistami) **identyfikuje** nieprawidÅ‚owoÅ›ci jÄ™zyka w uÅ¼yciu.
+* **DÄ…Å¼y** do  zapewnienia  pacjentowi  takiego  stanu  narzÄ™dzia  komunikacyjnego, jakim jest jÄ™zyk, aby kontakt z drugim czÅ‚owiekiem nie stanowiÅ‚y dla niego bariery.
 
-#### **JÊZYKOZNAWSTWO**
+#### **JÄ˜ZYKOZNAWSTWO**
 
-* _LINGWISTYKA_ › WIEDZA O WSPÓ£CZESNYM JÊZYKU POLSKIM
-* **TEORIA**:  modele  jêzyka  tworzone,  by  uchwyciæ  istotê z³o¿onego zjawiska, jakim jest mowa ludzka
-* **PRAKTYKA**: wykorzystanie pog³êbionej wiedzy o jêzyku, aby pomóc jego u¿ytkownikom w pos³ugiwaniu siê mow¹.
-* Praktyczna dzia³alnoœæ jêzykoznawcza musi mieæ oparcie w teorii, a teoria jêzyka nie mo¿e byæ oderwana od wiedzy jêzykowej wykorzystywanej w praktyce.
-* **Mali pacjenci** – ORM / afazja dzieciêca
-* **Pacjenci doroœli** – afazja poudarowa / zaburzenia komunikacji jêzykowej wystêpuj¹ce w przebiegu chorób neurodegeneracyjnych 
+* _LINGWISTYKA_ -> WIEDZA O WSPÃ“ÅCZESNYM JÄ˜ZYKU POLSKIM
+* **TEORIA**:  modele  jÄ™zyka  tworzone,  by  uchwyciÄ‡  istotÄ™ zÅ‚oÅ¼onego zjawiska, jakim jest mowa ludzka
+* **PRAKTYKA**: wykorzystanie pogÅ‚Ä™bionej wiedzy o jÄ™zyku, aby pomÃ³c jego uÅ¼ytkownikom w posÅ‚ugiwaniu siÄ™ mowÄ….
+* Praktyczna dziaÅ‚alnoÅ›Ä‡ jÄ™zykoznawcza musi mieÄ‡ oparcie w teorii, a teoria jÄ™zyka nie moÅ¼e byÄ‡ oderwana od wiedzy jÄ™zykowej wykorzystywanej w praktyce.
+* **Mali pacjenci** â€“ ORM / afazja dzieciÄ™ca
+* **Pacjenci doroÅ›li** â€“ afazja poudarowa / zaburzenia komunikacji jÄ™zykowej wystÄ™pujÄ…ce w przebiegu chorÃ³b neurodegeneracyjnych 
 
-#### **CO TO JEST JÊZYK I DO CZEGO JEST NAM POTRZEBNY?**
+#### **CO TO JEST JÄ˜ZYK I DO CZEGO JEST NAM POTRZEBNY?**
 
-`jêzyk to miêsieñ potrzebny do jedzenia lodów, chyba, ¿e ktoœ jest badassem i je gryzie`
+`jÄ™zyk to miÄ™sieÅ„ potrzebny do jedzenia lodÃ³w, chyba, Å¼e ktoÅ› jest badassem i je gryzie`
 
-* **JÊZYK** = _FORMA KOMUNIKACJI_ miêdzyludzkiej
-* Naturalny sposób przekazywania najró¿niejszych informacji w obrêbie spo³ecznoœci znaj¹cej dany jêzyk.
-* Podstaw¹  jest  wykorzystanie  strumienia  odpowiednich dŸwiêków,  które  s¹  wytwarzane  przez  odpowiednie narz¹dy  mówi¹cego,  które  s¹  odbierane  przez  narz¹dy odbiorcze s³uchaj¹cego (narz¹dy s³uchu) i traktowane jako coœ, co samo w sobie znaczy.
-* **Wtórn¹  postaci¹  jêzyka** jest tworzenie przez nadawcê ci¹gu znaków graficznych (liter) w ramach umiejêtnoœci  pisania,co  z  kolei  nadaje  siê  do  odczytania przez  odbiorcê (czytelnika). 
-* Jêzyk  na  co  dzieñ  u¿ywany  przez  cz³owieka,  to  narzêdzie komunikacji,  jednak pojêcie  komunikacji  jest  znacznie szersze ni¿ jêzyk ludzki.
-* Ludzie nie ograniczaj¹ siê przecie¿ w przekazie komunikacji wy³¹cznie  do  jêzyka. Wykorzystuj¹ **gestykulacjê, mimikê twarzy, znaki graficzne, ró¿ne œrodki masowego przekazu** (internet, telewizjê, radio). 
-* Wœród tych sposobów jêzyk ma uprzywilejowan¹ pozycjê: jest uniwersalny, naturalny i ma nieograniczone mo¿liwoœci.
-* Jeœli cz³owiek chce kogoœ powiadomiæ o czymœ, to naj³atwiej skorzystaæ mu z jêzyka.
+* **JÄ˜ZYK** = _FORMA KOMUNIKACJI_ miÄ™dzyludzkiej
+* Naturalny sposÃ³b przekazywania najrÃ³Å¼niejszych informacji w obrÄ™bie spoÅ‚ecznoÅ›ci znajÄ…cej dany jÄ™zyk.
+* PodstawÄ…  jest  wykorzystanie  strumienia  odpowiednich dÅºwiÄ™kÃ³w,  ktÃ³re  sÄ…  wytwarzane  przez  odpowiednie narzÄ…dy  mÃ³wiÄ…cego,  ktÃ³re  sÄ…  odbierane  przez  narzÄ…dy odbiorcze sÅ‚uchajÄ…cego (narzÄ…dy sÅ‚uchu) i traktowane jako coÅ›, co samo w sobie znaczy.
+* **WtÃ³rnÄ…  postaciÄ…  jÄ™zyka** jest tworzenie przez nadawcÄ™ ciÄ…gu znakÃ³w graficznych (liter) w ramach umiejÄ™tnoÅ›ci  pisania,co  z  kolei  nadaje  siÄ™  do  odczytania przez  odbiorcÄ™ (czytelnika). 
+* JÄ™zyk  na  co  dzieÅ„  uÅ¼ywany  przez  czÅ‚owieka,  to  narzÄ™dzie komunikacji,  jednak pojÄ™cie  komunikacji  jest  znacznie szersze niÅ¼ jÄ™zyk ludzki.
+* Ludzie nie ograniczajÄ… siÄ™ przecieÅ¼ w przekazie komunikacji wyÅ‚Ä…cznie  do  jÄ™zyka. WykorzystujÄ… **gestykulacjÄ™, mimikÄ™ twarzy, znaki graficzne, rÃ³Å¼ne Å›rodki masowego przekazu** (internet, telewizjÄ™, radio). 
+* WÅ›rÃ³d tych sposobÃ³w jÄ™zyk ma uprzywilejowanÄ… pozycjÄ™: jest uniwersalny, naturalny i ma nieograniczone moÅ¼liwoÅ›ci.
+* JeÅ›li czÅ‚owiek chce kogoÅ› powiadomiÄ‡ o czymÅ›, to najÅ‚atwiej skorzystaÄ‡ mu z jÄ™zyka.
 
 
