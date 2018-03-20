@@ -1,0 +1,50 @@
+---
+title: "Jêzykoznawstwo"
+author: "Agata Zywert"
+date: "20 marca 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **CZY WIEDZA O JÊZYKU (POLSKIM) JEST POTRZEBNA PSYCHOLOGOM?**
+`NIE`
+`nie no ¿art`
+`wiedza o jêzyku jest potrzebna wszystkim, bo inaczej wszyscy bêd¹`
+`tak kalecznie mówiæ jak ja - np. nie bêd¹ znali s³owa zastêpczego na s³owo pojebaæ no xD nie róbcie tego`
+`ps. tu pojawiaj¹ siê takie pytania, czy cz³owiekowi,` 
+`który uprawia karate potrzebna jest wiedza o fizjologii nwm jaka by³a odpowiedz`
+
+### **W JAKIM STOPNIU WIEDZA O JÊZYKU JEST POTRZEBNA PSYCHOLOGOM?**
+
+* dzia³alnoœæ zawodowa = praca z jêzykiem, mow¹ (funkcjami jêzykowymi).
+* Psycholog zawodowo **ws³uchuje** siê w to, co mówi¹ inni. 
+* W  praktyce **obserwuje** mowê  ludzk¹, **okreœla** poziom komunikacji dziecka lub doros³ego.
+* Czêœciowo (najczêœciej we wspó³pracy z innymi specjalistami) **identyfikuje** nieprawid³owoœci jêzyka w u¿yciu.
+* **D¹¿y** do  zapewnienia  pacjentowi  takiego  stanu  narzêdzia  komunikacyjnego, jakim jest jêzyk, aby kontakt z drugim cz³owiekiem nie stanowi³y dla niego bariery.
+
+#### **JÊZYKOZNAWSTWO**
+
+* _LINGWISTYKA_ › WIEDZA O WSPÓ£CZESNYM JÊZYKU POLSKIM
+* **TEORIA**:  modele  jêzyka  tworzone,  by  uchwyciæ  istotê z³o¿onego zjawiska, jakim jest mowa ludzka
+* **PRAKTYKA**: wykorzystanie pog³êbionej wiedzy o jêzyku, aby pomóc jego u¿ytkownikom w pos³ugiwaniu siê mow¹.
+* Praktyczna dzia³alnoœæ jêzykoznawcza musi mieæ oparcie w teorii, a teoria jêzyka nie mo¿e byæ oderwana od wiedzy jêzykowej wykorzystywanej w praktyce.
+* **Mali pacjenci** – ORM / afazja dzieciêca
+* **Pacjenci doroœli** – afazja poudarowa / zaburzenia komunikacji jêzykowej wystêpuj¹ce w przebiegu chorób neurodegeneracyjnych 
+
+#### **CO TO JEST JÊZYK I DO CZEGO JEST NAM POTRZEBNY?**
+
+`jêzyk to miêsieñ potrzebny do jedzenia lodów, chyba, ¿e ktoœ jest badassem i je gryzie`
+
+* **JÊZYK** = _FORMA KOMUNIKACJI_ miêdzyludzkiej
+* Naturalny sposób przekazywania najró¿niejszych informacji w obrêbie spo³ecznoœci znaj¹cej dany jêzyk.
+* Podstaw¹  jest  wykorzystanie  strumienia  odpowiednich dŸwiêków,  które  s¹  wytwarzane  przez  odpowiednie narz¹dy  mówi¹cego,  które  s¹  odbierane  przez  narz¹dy odbiorcze s³uchaj¹cego (narz¹dy s³uchu) i traktowane jako coœ, co samo w sobie znaczy.
+* **Wtórn¹  postaci¹  jêzyka** jest tworzenie przez nadawcê ci¹gu znaków graficznych (liter) w ramach umiejêtnoœci  pisania,co  z  kolei  nadaje  siê  do  odczytania przez  odbiorcê (czytelnika). 
+* Jêzyk  na  co  dzieñ  u¿ywany  przez  cz³owieka,  to  narzêdzie komunikacji,  jednak pojêcie  komunikacji  jest  znacznie szersze ni¿ jêzyk ludzki.
+* Ludzie nie ograniczaj¹ siê przecie¿ w przekazie komunikacji wy³¹cznie  do  jêzyka. Wykorzystuj¹ **gestykulacjê, mimikê twarzy, znaki graficzne, ró¿ne œrodki masowego przekazu** (internet, telewizjê, radio). 
+* Wœród tych sposobów jêzyk ma uprzywilejowan¹ pozycjê: jest uniwersalny, naturalny i ma nieograniczone mo¿liwoœci.
+* Jeœli cz³owiek chce kogoœ powiadomiæ o czymœ, to naj³atwiej skorzystaæ mu z jêzyka.
+
+
