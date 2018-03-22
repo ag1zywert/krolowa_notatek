@@ -8,7 +8,7 @@ Otóż, tu znajdziecie notatki z różnych przedmiotów, które można spotkać 
 ### OTO ONE
 
 ##### 1. Psychologia pracy [**right here**](psych_pracy.html)
-##### 2. Językoznastwo 
+##### 2. Językoznawstwo 
 
 * [**temat 1**](jezykoznawstwo.html)
 * [**temat2**] - wkrótce
