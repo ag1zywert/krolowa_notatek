@@ -9,5 +9,5 @@ Tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych 
 
 ##### 2. Językoznastwo 
 
-* [**temat 1**](https://github.com/ag1zywert/notatki/blob/master/jezykoznawstwo.Rmd)
+* [**temat 1**](jezykoznawstwo.html)
 
