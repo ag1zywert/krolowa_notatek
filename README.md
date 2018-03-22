@@ -11,4 +11,3 @@ Tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych 
 
 * [**temat 1**](jezykoznawstwo.html)
 
-* [działaczynie](jezykoznawstwo.Rmd)
