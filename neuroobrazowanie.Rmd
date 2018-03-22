@@ -5,66 +5,66 @@ date: "22 marca 2018"
 output: html_document
 ---
 
-### **Czynnoœciowa diagnostyka obrazowa w neuropsychologii**
+### **CzynnoÅ›ciowa diagnostyka obrazowa w neuropsychologii**
 
-      by prof. dr hab. med. Piotr Lass 
+            by prof. dr hab. med. Piotr Lass 
     
-  `tam na pocz¹tku to s¹ raczej tylko ciekawostki i ¿arciki, wiêc przejdê ju¿ do konkretów bardziej`
+  `tam na poczÄ…tku to sÄ… raczej tylko ciekawostki i Å¼arciki, wiÄ™c przejdÄ™ juÅ¼ do konkretÃ³w bardziej`
   
 #### _**Podstawy podstaw podstaw**_
 
-##### **Trzy (cztery) modele chorobowoœci/umieralnoœci:**
-* stara Europa/Trzeci Œwiat – choroby zakaŸne
-* okres szybkiej industrializacji – choroby serca
+##### **Trzy (cztery) modele chorobowoÅ›ci/umieralnoÅ›ci:**
+* stara Europa/Trzeci Åšwiat â€“ choroby zakaÅºne
+* okres szybkiej industrializacji â€“ choroby serca
 * okres postindustrialny 
-    + choroby serca: poni¿ej 50%
-     + nowotwory: 20 – 30% 
+    + choroby serca: poniÅ¼ej 50%
+     + nowotwory: 20 â€“ 30% 
     + urazy: ok. 5 % 
-     + schorzenia psychoneurologiczne ok. 15%  (!), a ile¿ weso³ych przygód Huffa i Puffa po drodze – to Wasza Specjalnoœæ, Mesdames e Messieurs!
-  + reszta – ok. 10% 
+     + schorzenia psychoneurologiczne ok. 15%  (!), a ileÅ¼ wesoÅ‚ych przygÃ³d Huffa i Puffa po drodze â€“ to Wasza SpecjalnoÅ›Ä‡, Mesdames e Messieurs!
+  + reszta â€“ ok. 10% 
 * model WNP `nie wiem co to ` jako specyfika
 
-##### **Podstawy podstaw ci¹g dalszy**
+##### **Podstawy podstaw ciÄ…g dalszy**
 
-* Neuropsychologia i neuropsychiatria nie dorobi³y siê bazy diagnostyki laboratoryjnej – jeszcze - nie mo¿na rozpoznaæ tych dysfunkcji badaniem krwi lub moczu, jednym z nielicznych wyj¹tków jest oznaczanie amyloidu w p³ynie mózgowo-rdzeniowym w ch. Alzheimera, ale jest postêp!.  
-* Na dziœ wszelako`(m) heee` wiêc podstaw¹ diagnostyki s¹ wiêc badania psychologiczne ++  oraz diagnostyka obrazowa.  
-* Czynnoœæ mózgu jest stanem elektrycznym. Niedoskona³ym zapisem tej czynnoœci jest EEG. W zwi¹zku z tym: 
-* Tworz¹c obraz („mapê”) czynnoœci mózgu pos³ugujemy siê parametrami poœrednimi – czynnoœci poszczególnych jego okolic przez uzyskanie obrazów regionalnego mózgowego przep³ywu krwi i  regionalnego metabolizmu glukozy.  
+* Neuropsychologia i neuropsychiatria nie dorobiÅ‚y siÄ™ bazy diagnostyki laboratoryjnej â€“ jeszcze - nie moÅ¼na rozpoznaÄ‡ tych dysfunkcji badaniem krwi lub moczu, jednym z nielicznych wyjÄ…tkÃ³w jest oznaczanie amyloidu w pÅ‚ynie mÃ³zgowo-rdzeniowym w ch. Alzheimera, ale jest postÄ™p!.  
+* Na dziÅ› wszelako`(m) heee` wiÄ™c podstawÄ… diagnostyki sÄ… wiÄ™c badania psychologiczne ++  oraz diagnostyka obrazowa.  
+* CzynnoÅ›Ä‡ mÃ³zgu jest stanem elektrycznym. NiedoskonaÅ‚ym zapisem tej czynnoÅ›ci jest EEG. W zwiÄ…zku z tym: 
+* TworzÄ…c obraz (â€mapÄ™â€) czynnoÅ›ci mÃ³zgu posÅ‚ugujemy siÄ™ parametrami poÅ›rednimi â€“ czynnoÅ›ci poszczegÃ³lnych jego okolic przez uzyskanie obrazÃ³w regionalnego mÃ³zgowego przepÅ‚ywu krwi i  regionalnego metabolizmu glukozy.  
 
 ##### **Dalej**
 
-* Wzrostowi aktywnoœci poszczególnych czêœci mózgu towarzyszy regionalny wzrost przep³ywu krwi i metabolizmu glukozy, przy czym oba stany s¹ wzajemnie sprzê¿one, tj. regionalnemu wzrostowi metabolizmu glukozy prawie zawsze towarzyszy wzrost regionalnego przep³ywu krwi. Wyj¹tkiem s¹ niektóre œpi¹czki i zatrucia. 
-* Regionalny przep³yw i metabolizm mózgowy definiuj¹ cztery badania neuroradiologiczne: SPECT, PET oraz funkcjonalne modyfikacje tomografii komputerowej i j¹drowego rezonansu magnetycznego. 
-* Ponadto, w mózgu istnieje masa ró¿nych receptorów: dla dopaminy, serotoniny, opiatów etc. Ich gêstoœæ ulega znacz¹cym zmianom w ró¿nych stanach psychopatologicznych. 
+* Wzrostowi aktywnoÅ›ci poszczegÃ³lnych czÄ™Å›ci mÃ³zgu towarzyszy regionalny wzrost przepÅ‚ywu krwi i metabolizmu glukozy, przy czym oba stany sÄ… wzajemnie sprzÄ™Å¼one, tj. regionalnemu wzrostowi metabolizmu glukozy prawie zawsze towarzyszy wzrost regionalnego przepÅ‚ywu krwi. WyjÄ…tkiem sÄ… niektÃ³re Å›piÄ…czki i zatrucia. 
+* Regionalny przepÅ‚yw i metabolizm mÃ³zgowy definiujÄ… cztery badania neuroradiologiczne: SPECT, PET oraz funkcjonalne modyfikacje tomografii komputerowej i jÄ…drowego rezonansu magnetycznego. 
+* Ponadto, w mÃ³zgu istnieje masa rÃ³Å¼nych receptorÃ³w: dla dopaminy, serotoniny, opiatÃ³w etc. Ich gÄ™stoÅ›Ä‡ ulega znaczÄ…cym zmianom w rÃ³Å¼nych stanach psychopatologicznych. 
 
 ##### **Weterynaryjna medycyna nuklearna**
 
-* Zwierzêta choruj¹ tak jak ludzie i diagnozowane s¹  tak jak ludzie, równie¿ radiologicznie
-* Otêpienia u zwierz¹t s¹ doœæ powszechne, zw³aszcza u psów: pourazowo lub na tle doœæ powszechnej niedoczynnoœci tarczycy; 
-* Istnieje bateria testów psychologicznych, najbardziej znany jest test lustra: otêpia³y pies, widz¹c swoje odbicie w lustrze wraca do zachowañ z okresu szczeniêcego `cooooooooo`
+* ZwierzÄ™ta chorujÄ… tak jak ludzie i diagnozowane sÄ…  tak jak ludzie, rÃ³wnieÅ¼ radiologicznie
+* OtÄ™pienia u zwierzÄ…t sÄ… doÅ›Ä‡ powszechne, zwÅ‚aszcza u psÃ³w: pourazowo lub na tle doÅ›Ä‡ powszechnej niedoczynnoÅ›ci tarczycy; 
+* Istnieje bateria testÃ³w psychologicznych, najbardziej znany jest test lustra: otÄ™piaÅ‚y pies, widzÄ…c swoje odbicie w lustrze wraca do zachowaÅ„ z okresu szczeniÄ™cego `cooooooooo`
 
 ##### **Metody badania**
 
-* Podstaw¹ wszystkich czterech metod jest tomografia, czyli trójwymiarowe obrazowanie mózgu z rekonstrukcj¹ i ocen¹ obrazu:  albo jako bry³y, albo w cienkich przekrojach (warstwach) odzwierciedlaj¹cych rozk³ad przep³ywu mózgowego krwi lub mózgowego metabolizmu glukozy. 
-* Metody te oparte s¹ albo na badaniu rozmieszczenia w mózgu („mapki”) radioizotopu technetu lub fluoru (PET, SPECT), albo: 
-* Zmian przep³ywu mózgowego w badaniu radiologicznym: funkcjonalna tomografia komputerowa lub funkcjonalny rezonans magnetyczny – badanie perfuzji i dyfuzji w mózgu. 
-* Z punktu widzenia neuropsychologii najistotniejsza jest metoda SPECT, PET orazczynnoœciowa odmiana j¹drowego rezonansu magnetycznego (MRI): 
-    + Umo¿liwiaj¹ one powtarzanie czynnoœciowej oceny mózgu powtarzanej w stosunkowo krótkim czasie;  pos³u¿y³y miêdzy innymi ocenie aktywacji uk³adu nagrody u zakupoholików i seksoholików oraz w badaniach reakcji zagro¿eñ w psychologii wojskowej i w zespole stresu pourazowego   (PTSD). 
+* PodstawÄ… wszystkich czterech metod jest tomografia, czyli trÃ³jwymiarowe obrazowanie mÃ³zgu z rekonstrukcjÄ… i ocenÄ… obrazu:  albo jako bryÅ‚y, albo w cienkich przekrojach (warstwach) odzwierciedlajÄ…cych rozkÅ‚ad przepÅ‚ywu mÃ³zgowego krwi lub mÃ³zgowego metabolizmu glukozy. 
+* Metody te oparte sÄ… albo na badaniu rozmieszczenia w mÃ³zgu (â€mapkiâ€) radioizotopu technetu lub fluoru (PET, SPECT), albo: 
+* Zmian przepÅ‚ywu mÃ³zgowego w badaniu radiologicznym: funkcjonalna tomografia komputerowa lub funkcjonalny rezonans magnetyczny â€“ badanie perfuzji i dyfuzji w mÃ³zgu. 
+* Z punktu widzenia neuropsychologii najistotniejsza jest metoda SPECT, PET orazczynnoÅ›ciowa odmiana jÄ…drowego rezonansu magnetycznego (MRI): 
+    + UmoÅ¼liwiajÄ… one powtarzanie czynnoÅ›ciowej oceny mÃ³zgu powtarzanej w stosunkowo krÃ³tkim czasie;  posÅ‚uÅ¼yÅ‚y miÄ™dzy innymi ocenie aktywacji ukÅ‚adu nagrody u zakupoholikÃ³w i seksoholikÃ³w oraz w badaniach reakcji zagroÅ¼eÅ„ w psychologii wojskowej i w zespole stresu pourazowego   (PTSD). 
     
 
 ##### _**1. Tomografia komputerowa - TK**_
-   + **Tomografia komputerowa** (nagroda Nobla dla Sir Godfrey Hounsfielda w roku 1979) jest tomograficzn¹ metod¹ radiodiagnostyczn¹ umo¿liwiaj¹c¹ ocenê cienkich przekrojów narz¹dów mi¹¿szowych, w tym mózgu, na drodze synchronicznego ruchu lampy rentgenowskiej i detektora promieniowania wokó³ cia³a badanego. 
-    + Wprowadzenie tomografii komputerowej by³a jedn¹ z trzech wielkich rewolucji technologicznych w diagnostyce obrazowej, porównywalnych do odkrycia promieni rentgenowskich. 
-    + Tomografia komputerowa oparta jest na ci¹g³ej rotacji wokó³ g³owy badanego zespo³u lampa-detektor. Je¿eli do tego dodamy osiowy ruch sto³u badanego, umo¿liwia to zbadanie rozleg³ych obszarów cia³a ludzkiego (spiralna tomografia komputerowa). 
-    + Szerokoœæ badania TK zale¿y od liczby warstw badania organu (w tym mózgu). Ogólnie, do  badañ mózgu wystarcz¹  aparaty szeœcio- lub szesnastowarstwowe, aparaty wy¿szych generacji (40- lub 64 warstwowe znajduj¹ raczej zastosowanie w radiologii kardiologicznej lub onkologicznej). 
+   + **Tomografia komputerowa** (nagroda Nobla dla Sir Godfrey Hounsfielda w roku 1979) jest tomograficznÄ… metodÄ… radiodiagnostycznÄ… umoÅ¼liwiajÄ…cÄ… ocenÄ™ cienkich przekrojÃ³w narzÄ…dÃ³w miÄ…Å¼szowych, w tym mÃ³zgu, na drodze synchronicznego ruchu lampy rentgenowskiej i detektora promieniowania wokÃ³Å‚ ciaÅ‚a badanego. 
+    + Wprowadzenie tomografii komputerowej byÅ‚a jednÄ… z trzech wielkich rewolucji technologicznych w diagnostyce obrazowej, porÃ³wnywalnych do odkrycia promieni rentgenowskich. 
+    + Tomografia komputerowa oparta jest na ciÄ…gÅ‚ej rotacji wokÃ³Å‚ gÅ‚owy badanego zespoÅ‚u lampa-detektor. JeÅ¼eli do tego dodamy osiowy ruch stoÅ‚u badanego, umoÅ¼liwia to zbadanie rozlegÅ‚ych obszarÃ³w ciaÅ‚a ludzkiego (spiralna tomografia komputerowa). 
+    + SzerokoÅ›Ä‡ badania TK zaleÅ¼y od liczby warstw badania organu (w tym mÃ³zgu). OgÃ³lnie, do  badaÅ„ mÃ³zgu wystarczÄ…  aparaty szeÅ›cio- lub szesnastowarstwowe, aparaty wyÅ¼szych generacji (40- lub 64 warstwowe znajdujÄ… raczej zastosowanie w radiologii kardiologicznej lub onkologicznej). 
     
-* **Badanie perfuzji (przep³ywu krwi) TK:**
-    + Najwiêksze znaczenie ma w œwie¿ych udarach mózgu: przedstawia zmiany czynnoœciowe, w odró¿nieniu od klasycznej tomografii komputerowej, która obrazuje zmiany morfologiczne, 
-    + obrazuje zaburzenia ukrwienia gro¿¹ce zawa³em, 
-jest czu³ym narzêdziem diagnostycznym zw³aszcza dla rozpoznawania i prognozowania wczesnych udarów niedokrwiennych. 
-    + polega na ocenie zmian gêstoœci tkankowej, zale¿nej od przep³ywu jodowego œrodka kontrastowego przez ³o¿ysko naczyniowe mózgowia, 
-    + umo¿liwia poœredni¹ ocenê kr¹¿enia w du¿ych naczyniach, 
-pozwala przewidywaæ nastêpstwa udaru.
+* **Badanie perfuzji (przepÅ‚ywu krwi) TK:**
+    + NajwiÄ™ksze znaczenie ma w Å›wieÅ¼ych udarach mÃ³zgu: przedstawia zmiany czynnoÅ›ciowe, w odrÃ³Å¼nieniu od klasycznej tomografii komputerowej, ktÃ³ra obrazuje zmiany morfologiczne, 
+    + obrazuje zaburzenia ukrwienia groÅ¼Ä…ce zawaÅ‚em, 
+jest czuÅ‚ym narzÄ™dziem diagnostycznym zwÅ‚aszcza dla rozpoznawania i prognozowania wczesnych udarÃ³w niedokrwiennych. 
+    + polega na ocenie zmian gÄ™stoÅ›ci tkankowej, zaleÅ¼nej od przepÅ‚ywu jodowego Å›rodka kontrastowego przez Å‚oÅ¼ysko naczyniowe mÃ³zgowia, 
+    + umoÅ¼liwia poÅ›redniÄ… ocenÄ™ krÄ…Å¼enia w duÅ¼ych naczyniach, 
+pozwala przewidywaÄ‡ nastÄ™pstwa udaru.
 
 
 
