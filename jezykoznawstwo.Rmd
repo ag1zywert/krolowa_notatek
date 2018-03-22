@@ -2,14 +2,17 @@
 title: "Językoznawstwo"
 author: "Agata Zywert"
 date: "20 marca 2018"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### **CZY WIEDZA O JĘZYKU (POLSKIM) JEST POTRZEBNA PSYCHOLOGOM?**
+#### **CZY WIEDZA O JĘZYKU (POLSKIM) JEST POTRZEBNA PSYCHOLOGOM?**
 `NIE`
 `nie no żart`
 `wiedza o języku jest potrzebna wszystkim, bo inaczej wszyscy będą`
@@ -17,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 `ps. tu pojawiają się takie pytania, czy człowiekowi,` 
 `który uprawia karate potrzebna jest wiedza o fizjologii nwm jaka była odpowiedz`
 
-### **W JAKIM STOPNIU WIEDZA O JĘZYKU JEST POTRZEBNA PSYCHOLOGOM?**
+#### **W JAKIM STOPNIU WIEDZA O JĘZYKU JEST POTRZEBNA PSYCHOLOGOM?**
 
 * działalność zawodowa = praca z językiem, mową (funkcjami językowymi).
 * Psycholog zawodowo **wsłuchuje** się w to, co mówią inni. 
@@ -25,9 +28,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * Częściowo (najczęściej we współpracy z innymi specjalistami) **identyfikuje** nieprawidłowości języka w użyciu.
 * **Dąży** do  zapewnienia  pacjentowi  takiego  stanu  narzędzia  komunikacyjnego, jakim jest język, aby kontakt z drugim człowiekiem nie stanowiły dla niego bariery.
 
-#### **JĘZYKOZNAWSTWO**
+### **JĘZYKOZNAWSTWO**
 
-* _LINGWISTYKA_ -> WIEDZA O WSPÓŁCZESNYM JĘZYKU POLSKIM
+* _LINGWISTYKA_ › WIEDZA O WSPÓŁCZESNYM JĘZYKU POLSKIM
 * **TEORIA**:  modele  języka  tworzone,  by  uchwycić  istotę złożonego zjawiska, jakim jest mowa ludzka
 * **PRAKTYKA**: wykorzystanie pogłębionej wiedzy o języku, aby pomóc jego użytkownikom w posługiwaniu się mową.
 * Praktyczna działalność językoznawcza musi mieć oparcie w teorii, a teoria języka nie może być oderwana od wiedzy językowej wykorzystywanej w praktyce.
@@ -46,5 +49,220 @@ knitr::opts_chunk$set(echo = TRUE)
 * Ludzie nie ograniczają się przecież w przekazie komunikacji wyłącznie  do  języka. Wykorzystują **gestykulację, mimikę twarzy, znaki graficzne, różne środki masowego przekazu** (internet, telewizję, radio). 
 * Wśród tych sposobów język ma uprzywilejowaną pozycję: jest uniwersalny, naturalny i ma nieograniczone możliwości.
 * Jeśli człowiek chce kogoś powiadomić o czymś, to najłatwiej skorzystać mu z języka.
+
+#### „założyłeś sweterek na drugą stronę”
+
+`co? xD`
+
+* Język -→ zjawisko w działaniu -→ mowa, mówienie, użycie języka
+*  Mowa  ma  z  natury  charakter  jednostkowy,  związany  z konkretnym aktem użycia języka.
+* Zachodzi w określonej sytuacji, ma określonego wykonawcę, przejawia  się  w  określonej,  zwykle  niepowtarzalnej wypowiedzi.
+* Język jest zasobem środków komunikacyjnych wspólnych dla danej społeczności językowej.
+* Aby mowa była narzędziem komunikacji w społeczeństwie, musi być niezależna od indywidualnego użycia. Musi mieć cechy  i  elementy,  które  są  powszechnie  znane  i wykorzystywane w danej społeczności.
+* Komunikacja w języku naturalnym człowieka musi być oparta na _**kompetencji językowej**_ członków wspólnoty używającej dany język.
+
+####**KOMPETENCJA    JĘZYKOWA**
+
+> Nabyta  umiejetność komunikowania się w jakimś języku.
+
+**Kompetencja to praktyczna wiedza językowa, na którą składa się znajomość elementów językowego systemu komunikacyjnego t.j. wykorzystywane w języku:**
+
+* Jednostki dźwiękowe
+* Wyrazy i ich znaczenia
+* Sposoby łączenia wyrazów w struktury składniowe i tekstowe
+* Budowa morfologiczna wyrazów
+* Znajomość frazeologizmów
+* Sposoby wykorzystywania różnych elementów języka w określonych sytuacjach
+
+
+##### Rozróżnienie  języka  jako  intersubiektywnego  środka komunikacji i jako indywidualnego aktu mowy występuje w znanych teoriach językoznawczych. W  językoznawstwie  strukturalistycznym przejawia  się  to w różnicy _langue_ i _parole_ a w gramatyce transformacyjno – generatywnej  to  różnica  między  _kompetencją_ i _performancją_.
+
+#### **TEORIE**
+
+* Nie  istnieje  aktualnie  żadna, a na pewno jedna powszechnie akceptowana   klasyfikacja   (typologia)   dyscyplin językoznawczych.
+
+`prawie jak w psychologii hehe`
+
+* **Przejścia dokonały się między kolejnymi programami na drogach:**
+
+* od ewolucjonizmu do dyfuzjonizmu 
+* od dyfuzjonizmu do strukturalizmu 
+* od strukturalizmu do generatywizmu 
+* od generatywizmu do kognitywizmu 
+* od kognitywizmu do komunikacjonizmu
+
+* **Ewolucjonizm** i **dyfuzjonizm** należą  do  kierunków antropologicznych, prezentujących podejście historyczne.
+
+##### **EWOLUCJONIZM**
+
+* Współczesna rzeczywistość, w tym językowa, 
+jej  stan  obecny  i  struktura  może  być  wyjaśniona  jako 
+wytwór  rozwoju  (ewolucji),  której  podlegają  rzeczy  i 
+zjawiska. Świat zmienia się stopniowo, w sposób ciągły i 
+jednokierunkowy  -  przechodząc  od  form  niższych  do 
+wyższych, bardziej doskonałych.
+
+* Każda  następna  zmiana  jest  podsumowaniem  i 
+rozwinięciem  dorobku  społeczno  –  kulturowego 
+poprzedniego etapu. 
+
+##### **DYFUZJONIZM**
+
+* kierunek, który nawiązuje do ewolucjonizmu, aby  się  mu  przeciwstawić. Za  główny  czynnik  rozwoju uznaje  zapożyczenie i  przenikanie  wytworów  kultury z jednej strony do  drugiej,  a  zatem  na drodze dyfuzji  – przenikania elementów.
+* Operuje pojęciem _**przemiany  kulturowej**_,  która  oznacza wszystkie zmiany, jakie dokonują się w każdej kulturze. W zakres tego  pojęcia  wchodzi **akulturacja** i **wewnętrzna przemiana** - zmiany niezwiązane z wpływem obcych kultur.
+
+##### **STRUKTURALIZM**
+
+* oparty na przekonaniu, że język jest **strukturą** zorganizowanych   systemów   znaków,   będących podstawowym  kodem  komunikacji  międzyludzkiej. 
+* Strukturaliści ujmują język jako **system  relacji**
+* Odrzucają  natomiast poglądy młodogramatyków i dążą do tego, by zbliżyć  się  do  metod  przyrodniczych  (naturalizm biologiczny). 
+* Odrzucają psychologizowanie i atomizowanie języka. Nie opisują elementów pozajęzykowych
+
+##### **GENERATYWIZM**
+
+* wyjaśnia   kompetencję   mówiącego (słuchającego)  w  zakresie  tworzenia  (rozumienia)  zdań danego języka.
+* Każdy mówiący jest zdolny do konstruowania zdań, których dotąd  nie  zbudował,  a  słuchający  do  rozumienia  zdań, których dotąd nie słyszał. 
+* Każdy użytkownik języka jest w stanie rozstrzygnąć, czy dane zdanie  należy  do  języka,  w  którym  się  wypowiada  (jest poprawne w tym języku), czy też doń nie należy (jest w nim niepoprawne).  Zdolność  ta  tłumaczy  się  faktem rozporządzania przez mówiącego skończoną  liczbą  reguł gramatycznych, za pomocą których tworzy on syntagmy i zdania ze znanych sobie wyrazów.
+* Gramatyka  generatywna  jest  skończonym  zbiorem  reguł (zwanych  regułami  gramatycznymi),  który  wymienia wszystkie  ciągi  i  przypisuje  każdemu  z  nich  opis strukturalny,  na  który  składa  się  zbiór  elementów tworzących ciąg, jego szyk wewnętrzny i zewnętrzny oraz każda  inna  informacja  gramatyczna  potrzebna  do określenia  sposobu,  w  jaki  dany  ciąg  został  użyty  i zrozumiany.
+* _Według Chomsky'ego (1965) należy rozróżniać kompetencje mówiącego,  czyli  jego  zdolność  rozpoznawania  i stosowania reguł gramatyki, od realizacji aktu mowy_.
+* **Gramatyka  generatywna  wyjaśnia  kompetencje  lecz  nie realizację.**
+
+##### **KOGNITYWIZM**
+
+* Język  jest  ściśle  powiązany  z  umysłowymi procesami  dotyczącymi  postrzegania  świata.  Lingwistyka kognitywna zajmuje się przyswajaniem,  gromadzeniem  i wykorzystywaniem  informacji;  opiera  się  na  wcześniej rozwijanej psychologii kognitywnej.
+* Głównym zadaniem lingwistyki kognitywnej jest objaśnienie nie  tylko  zdolności  językowych,  ale  również  możliwości społecznych języka.
+* Podstawowa  funkcja  języka,  przedstawieniowa,  na  której bazował strukturalizm, została poddana reinterpretacji.
+* Wydzielano i opisywano funkcje pochodne od niej: _**poznawczą**_ (czyli  kognitywną,  ideacyjną)  i  _**komunikatywną**_  (czyli interpersonalną). 
+
+##### **Odpowiednio do rangi, jaką te dwie wyszczególnione funkcje uzyskują  w  badaniach,  można  wyróżnić  dwa  kierunki  w lingwistyce:**
+
+* **kognitywizm**
+ z  jego  centralnym  problemem  językowej 
+konceptualizacji rzeczywistości, a więc językowego obrazu 
+czy językowego oglądu świata 
+* **komunikacjonizm**
+ z  centralnym  problemem  wypowiedzi 
+(czyli tekstu) i reguł dyskursu.
+
+### **FUNKCJE JĘZYKA**
+
+Komunikacyjna | Nakłaniająca | Ekspresywna | Sprawcza | Fatyczna | Poetycka | Metajęzykowa|
+--------------|--------------|-------------|----------|----------|----------|-------------|
+Podstawowy sposób na przekazywanie informacji w ludzkiej społeczności i główny środek porozumiewania się między ludźmi | umożliwiająca skłonienie odbiorcy do pożądanego zachowania. W  języku  przejawiająca  się  w  nakazach,  rozkazach, komendach,  zakazach,  groźbach,  prośbach,  radach, wskazówkach, apelach, zawołaniach. **Środki językowe wyspecjalizowane w tej funkcji:** tryb rozkazujący: _Nie rób tego, Adasiu_ zd.pyt.tryb.przyp: _Czy nie chciałbyś pójść ze mną na spacer?_ | Pozwala zrealizować intencję dotyczącą wyrażenia własnego stosunku  do  jakiegoś  faktu,  wydarzenia  za  pomocą wypowiedzeń uzewnętrzniających uczucia, emocje, stany psychiczne mówiącego. **Środki językowe wyspecjalizowane w tej funkcji:** wykrzykniki: _Ojej! Boli!_ wyp.z int.wykrz: _Jaki to wspaniały widok!_ | Język jest sprawcą określonego stanu rzeczy. Dzięki niej mogą funkcjonować przyrzeczenia, deklaracje, obietnice, śluby, przeprosiny, klątwy, wyroki sądowe, akty prawne. W tekstach urzędowych język bywa środkiem tworzenia określonych regulcji społecznych. | Najczęściej nieuświadomiona. Jej istotą jest wola nawiązania i podtrzymania kontaktu językowego. Nadawca tak dobiera środki językowe i treść wypowiedzi, by być w kontakcie z odbiorcą. | Pozwala zwrócić uwagę odbiorcy na formę wypowiedzi, język pozwala  stworzyć  „obiekty/produkty”  o  walorach estetycznych.  Najczęściej  korzystają  z  niej  literaci,  gdy stosują w swych utworach oryginalne metafory, połączenia wyrazowe. | Pozwala  mówić  o  języku.  Wykorzystywana  w  tekstach językoznawczych,  słownikach,  ale  także  w  potocznych rozmowach o języku.
+
+#### Zestawienie  nie  wyczerpuje  wszystkich  funkcyjnych możliwości użycia języka.  O tym, w jakiej funkcji zostanie on  wykorzystany,  decyduje  ostatecznie  nadawca  – nieświadomie.
+
+#### **INNY PODZIAŁ** 
+
+Generatywna | Poznawcza | Socjalizująca | Kulturotwórcza | 
+------------|-----------|---------------|----------------|
+Umożliwa  tworzenie  różnych  wypowiedzeń  i  ich  ciagów, których treść i forma są często trudne do przewidzenia, zależą od użytkownika języka. | Narzędzie poznania rzeczywistości (nazwy i ich znaczenia). Zasób nazw w jakimkolwiek języku jest zasobem wiedzy ściśle związanym z poznawaniem świata. | Umożliwa scalanie za pomocą jednego języka poszczególnych społeczności, narodowości. | Za pomocą języka możliwe jest przekazywanie elementów kultury wraz z jej wartościami.
+
+##### **PODSTAWOWE FUNKCJE JĘZYKA**
+
+JĘZYK (SYSTEM) | JĘZYK (MOWA)|
+---------------|-------------|
+generatywna    |komunikacyjna
+socjalizująca  |nakłaniająca
+poznawcza      |ekspresywna
+kulturotwórcza |sprawcza
+-	             |fatyczna
+-	             |poetycka
+- 	           |metajęzykowa
+
+### **ZNACZENIE W JĘZYKU**
+
+##### _**Język = strumień dźwięków + znaczenie**_
+
+> Czy strumień dźwięków z ludzkiego aparatu mowy zawsze jest komunikatem językowym?
+
+`ofc, że nie, może to być pijacka czkawka np. albo nucenie`
+
+#### **SEMIOTYKA**
+
+* Nauka ta wyróżnia wielość znaków funkcjonujących w naszej 
+rzeczywistości. Funkcjonuje w niej jednak dychotomiczny 
+podział na znaki 
+**naturalne**
+ i 
+**konwencjonalne.**
+
+
+* **Znaki konwencjonalne** (arbitralne, umowne)
+	+ Są związane z jakaś konwencją, znaną w danej społeczności 
+umową, niekoniecznie pisaną.
+	+ Niektóre  nie  mają  konkretnego  nadawcy,  mogą  wynikać  z 
+ogólnych   przekonań   np. 
+spotkanie 
+kominiarza, 
+przebiegnięcie drogi przez czarnego kota.
+	+ Konwencja  może  wiązać  się  z  różnymi  (w  poszczególnych 
+spoleczeństwach)  rozwiązaniami  w  kwestii  znaczenia 
+znaków arbitralnych np. kolor żałoby
+
+
+* **Znaki naturalne** (objawy, symptomy)
+	+ Ich istotą jest sygnalizowanie czegoś zgodnie z prawami natury, 
+fizyki, logiki np. dym nad lasem -→ pożar
+	+ gorące czoło człowieka → wysoka temperatura
+rejestrowane przez sejsmologów drgania skorupy ziemskiej -→ nadchodzące trzęsienie ziemi `itp. itd.`
+
+* **Znaki ikoniczne**
+	+ Ich znaczenie opiera się na fizycznym podobieństwie znaku
+i oznaczanego obiektu. 
+
+#### **Znaki językowe**
+
+* Ich fizyczna natura jest 
+dźwiękowa
+, ale we wtórnej postaci 
+mogą mieć także 
+charakter wizualny
+ (pismo), gestykularny 
+(język  migowy),  dotykowy  (pismo  dla  niewidomych  z 
+użyciem alfabetu Braille'a).
+* Sekwencje    dźwięków    mowy    tworzą    znaki,    których 
+prototypową  formą  są  wyrazy
+* Znaczenie  wyrazów  jest 
+związane  z  przyjętą  w  danej  społeczności  językowej 
+konwencją,  która  z  kolei  jest  zawarta  w  kompetencji 
+językowej użytkowników danego języka.
+* Język jest zbiorem znaków konwencjonalnych.
+* Znaki językowe to funkcjonujące w danym języku symbole rzeczy, 
+obiektów,  osób,  zwierząt,  roślin,  zjawisk,  cech,  czynności, 
+stanów, relacji, bytów abstrakcyjnych itp.
+
+* **Pojęciowy charakter znaczenia wyrazów**
+	+ Istotą znaczenia wyrazu nie jest jednostkowe skojarzenie z 
+przedmiotem, ale odniesienie do abstrakcyjnego pojęcia.
+`Boze brzmi jak poznawcza help`
+
+* **POJĘCIE?** `nie wiem czemu tu jest znak zapytania, ta pani go tu dała nie ja`
+	+ Klasa  elementów  rzeczywistości,  które  łączy  wspólnota 
+określonych  właściwości  np. 
+dom, 
+drzewo, 
+ołówek, samochód.
+	+ Nie  wszystkie  pojęcia  będą  wiązały  się  z  klasami 
+KONKRETNYCH obiektów rzeczywistości. Wyrazy takie jak 
+tęsknota, 
+miłość, 
+talent, 
+sprawiedliwość
+ mają  znaczenie 
+abstrakcyjne.  Odwołują  się  do  klas  zjawisk,  których 
+rozpoznawanie  jest  możliwe  na  podstawie  cech 
+wyodrębnionych przez użytkowników danego języka.
+
+
+* **WYRAZ?**
+	+ Jest  prototypowym 
+**znakiem   językowym**
+ in.  jednostka 
+leksykalna lub słownikowa. 
+	+ Znaczenie  poza  związkiem  z  samym  wyrazem  można 
+wyodrebnić także w zakresie jego mniejszych części. 
+ 
+### KONIEC TEGO TEMATU
 
 
