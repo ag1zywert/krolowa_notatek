@@ -61,7 +61,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Aby mowa była narzędziem komunikacji w społeczeństwie, musi być niezależna od indywidualnego użycia. Musi mieć cechy  i  elementy,  które  są  powszechnie  znane  i wykorzystywane w danej społeczności.
 * Komunikacja w języku naturalnym człowieka musi być oparta na _**kompetencji językowej**_ członków wspólnoty używającej dany język.
 
-####**KOMPETENCJA    JĘZYKOWA**
+#### **KOMPETENCJA    JĘZYKOWA**
 
 > Nabyta  umiejetność komunikowania się w jakimś języku.
 
@@ -166,9 +166,9 @@ generatywna    |komunikacyjna
 socjalizująca  |nakłaniająca
 poznawcza      |ekspresywna
 kulturotwórcza |sprawcza
--	             |fatyczna
--	             |poetycka
-- 	           |metajęzykowa
+-	       |fatyczna
+-	       |poetycka
+- 	       |metajęzykowa
 
 ### **ZNACZENIE W JĘZYKU**
 
