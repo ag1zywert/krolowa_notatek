@@ -1,7 +1,9 @@
 # Witam serdecznie
 
 ### Co to za rzecz?
-Otóż, tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych _studiach_, większość z nich to wiernia kopia slajdu w bardziej przystępnej (mam nadzieję formie) niż zadziwiające slajdy, które otrzymujemy od wykładowców. Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
+Otóż, tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych _studiach_, większość z nich to wiernia kopia prezek w bardziej przystępnej (mam nadzieję) formie niż zadziwiające slajdy, które otrzymujemy od prowadzących.
+
+Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 
 ##### BIERZCIE I JEDZCIE :)
 
