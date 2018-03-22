@@ -7,5 +7,7 @@ Tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych 
 
 ##### 1. Psychologia pracy [**right here**](https://github.com/ag1zywert/notatki/blob/master/psych_pracy.Rmd)
 
-Narazie chyba tyle w miarę możliwości będę dodawać resztę, pozdrowienia
+##### 2. Językoznastwo 
+
+* [**temat 1**](https://github.com/ag1zywert/notatki/blob/master/jezykoznawstwo.Rmd)
 
