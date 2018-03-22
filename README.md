@@ -5,7 +5,7 @@ Tu znajdziecie notatki z różnych przedmiotów, które można spotkać na tych 
 
 ### OTO ONE
 
-##### 1. Psychologia pracy [**right here**](psych_pracy.Rmd)
+##### 1. Psychologia pracy [**right here**](psych_pracy.html)
 
 ##### 2. Językoznastwo 
 
