@@ -13,3 +13,5 @@ Otóż, tu znajdziecie notatki z różnych przedmiotów, które można spotkać 
 * [**temat 1**](jezykoznawstwo.html)
 * [**temat2**] - wkrótce
 
+##### 3. Nueroobrazowanie [**początek**](neuroobrazowanie.html)
+
