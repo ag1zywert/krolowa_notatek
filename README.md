@@ -15,5 +15,5 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 * [**temat 1**](jezykoznawstwo.html)
 * [**temat2**] - wkrótce
 
-##### 3. Nueroobrazowanie [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
+##### 3. Neuroobrazowanie [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
 
