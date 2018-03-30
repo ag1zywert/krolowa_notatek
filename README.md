@@ -19,6 +19,6 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 * [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
 * [**część 2**](neuroobrazowanie2.html) -  **Badanie receptorowe, chemia mózgu i do czego się stosuje neuroobrazowanko**
 * [**część 3**](neuroobrazowanie3.html) **różne choroby i coś tam :)**
-* [**część ostatnia**](neuroobrazowanie4.html) **uzależnienia i pierdoły**
+* [**część ostatnia**](neuroobrazowanie4.html) **uzależnienia i  R E L I G I J N O Ś Ć**
   
 
