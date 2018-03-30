@@ -17,6 +17,6 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 
 ##### 3. Neuroobrazowanie 
 * [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
-* [**część 2**]() - wkrótce - **Badanie receptorowe i chemia mózgu**
+* [**część 2**] - wkrótce - **Badanie receptorowe i chemia mózgu**
   
 
