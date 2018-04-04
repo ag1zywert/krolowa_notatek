@@ -1,0 +1,69 @@
+---
+title: "CZEMU JEDNI LUDZIE JAK SB ZEPSUJOM CIAŁO WRACAJOM DO SPORTU A INNI NIE HM?"
+author: "Agata Zywert"
+
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: reveal_libs
+    theme: moon
+    center: true
+    incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# O CZYM SOM TE BADANIA
+
+## CEL
+
+Tu jest cel
+
+## SKONT MI SIE TO WZIELO
+
+Inne badania
+
+## ..
+
+ Wincyj innych badan
+
+## HIPOTEZY
+
+* hipoteza 1
+* hipoteza 2
+* hipoteza 3
+
+
+# MATERIAŁ I METODY
+
+## Ludzie
+
+* tacy
+* sracy
+* owacy
+    
+## Kwestionariusze
+
+* takie
+* srakie
+* owakie
+
+## Statystyka
+
+* taka
+* sraka
+* owaka
+
+# przewidywane wyniczki
+
+## Jakie som?
+
+* takie
+* srakie
+* owakie
+
+
+    
+
