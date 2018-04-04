@@ -1,6 +1,5 @@
 ---
-title: "CZEMU JEDNI LUDZIE JAK SB ZEPSUJOM CIAŁO WRACAJOM DO SPORTU A INNI NIE HM?"
-author: "Agata Zywert"
+title: "Style radzenia sobie ze stresem oraz bólem a powrót do sportu po przebytej kontuzji u osób trenujących sztuki walki"
 
 output:
   revealjs::revealjs_presentation:
@@ -15,11 +14,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# O CZYM SOM TE BADANIA
+# Cel i tło badań
 
-## CEL
+## Cel
 
-Tu jest cel
+Celem badań jest uzyskanie informacji na temat tego, czy preferowany sposób radzenia sobie ze stresem oraz stosowanie danej strategii radzenia sobie z bólem wpływa na to, czy osoby trenujące sztuki walki, po przebytej kontuzji, wracają do regularnych treningów.
 
 ## SKONT MI SIE TO WZIELO
 
@@ -28,12 +27,25 @@ Inne badania
 ## ..
 
  Wincyj innych badan
+ 
+## Co to je radzenie sobie ze stresem
+
+* takie strategie som
+* srakie
+* i owakie :)
+
+## Cot o je radzenie sobie z bólem
+
+* takie som
+* takie som
+* i jeszcze takie
 
 ## HIPOTEZY
 
-* hipoteza 1
-* hipoteza 2
-* hipoteza 3
+* W grupie osób, które powróciły do sportu po przebytej kontuzji znajdzie się więcej osób o zadaniowym stylu radzenia sobie ze stresem niż osób o emocjonalnym oraz unikowym stylu radzenia sobie ze stresem.
+* W grupie osób, które powróciły do sportu po przebytej kontuzji znajdzie się więcej osób, które przypisują duże znaczenie własnym umiejętnościom radzenia sobie i obniżenia bólu niż w grupie osób, które nie powróciły do sportu.
+
+* Ilość osób powracających do sportu po kontuzji, będzie malało wraz ze wzrostem długości przerwy w trenowaniu spowodowanej kontuzją i rehabilitacją, niezależnie od stylu radzenia sobie ze stresem i bólem.
 
 
 # MATERIAŁ I METODY
@@ -43,7 +55,14 @@ Inne badania
 * tacy
 * sracy
 * owacy
-    
+
+## ANkieta
+
+* demografia
+* rodzaj sportu
+* długość rehabilitacji
+* czy powrocili czy nie
+
 ## Kwestionariusze
 
 * takie
