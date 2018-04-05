@@ -22,6 +22,6 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 * [**część ostatnia**](neuroobrazowanie4.html) **uzależnienia i  R E L I G I J N O Ś Ć**
 
 
-* [test](metodologia.html)
+* **meto**(metodologia.html)
   
 
