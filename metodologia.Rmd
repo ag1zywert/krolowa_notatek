@@ -1,5 +1,5 @@
 ---
-title: "Style radzenia sobie ze stresem oraz bÃ³lem a powrÃ³t do sportu po przebytej kontuzji u osÃ³b trenujÄ…cych sztuki walki"
+title: "Style radzenia sobie ze stresem oraz bólem a powrót do sportu po przebytej kontuzji u osób trenuj¹cych sztuki lub sporty walki"
 
 output:
   revealjs::revealjs_presentation:
@@ -14,75 +14,123 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Cel i tÅ‚o badaÅ„
+# Cel i t³o badañ
 
 ## Cel
 
-Celem badaÅ„ jest uzyskanie informacji na temat tego, czy preferowany sposÃ³b radzenia sobie ze stresem oraz stosowanie danej strategii radzenia sobie z bÃ³lem wpÅ‚ywa na to, czy osoby trenujÄ…ce sztuki walki, po przebytej kontuzji, wracajÄ… do regularnych treningÃ³w.
+Celem badañ jest uzyskanie informacji na temat tego, czy preferowany sposób radzenia sobie ze stresem oraz stosowanie danej strategii radzenia sobie z bólem i przekonania na temat umiejscowienia kontroli bólu wp³ywaj¹ na to, czy osoby trenuj¹ce sztuki lub sporty walki, po przebytej kontuzji, wracaj¹ do regularnych treningów.
 
-## SKONT MI SIE TO WZIELO
+## T³o badañ
 
-Inne badania
+*	Emocjonalna odpowiedŸ na doznan¹ kontuzjê stanowi wa¿ny aspekt rehabilitacji i czêsto stanowi o jej wyniku _(Quackenbush & Crossman, 1994)_
+* Urazy u osób trenuj¹cych regularnie najczêœciej wywo³uj¹ negatywne emocje i s¹ sytuacjami stresowymi _(Clement & Shannon, 2011)_
+*	Rehabilitacja, wsparcie spo³eczne i psychologiczna pomóc dla osób, które dozna³y wypadku przynosi lepsze efekty jeœli dopasowana jest do psychologicznych predyspozycji osoby poszkodowanej _(Fisher, Mullins, & Frye, 1993)_
 
-## ..
 
- Wincyj innych badan
+## T³o badañ
+
+*	Sporty i sztuki walki charakteryzuj¹ siê doœæ wysok¹ urazowoœci¹ (szczególnie boks i zapasy) zwi¹zane jest to miêdzy innymi z urazami w bezpoœrednich walkach sportowych (Bujak, 2008)
+*	Dominuj¹cymi urazami s¹ urazy œrednie i lekkie (rozci¹gniêcia wiêzade³ i st³uczenia) – co oznacza, ¿e po okresie rehabilitacji osoby, które dozna³y kontuzji mog¹ zwykle wróciæ do regularnych treningów (Bujak, 2008)
+* Im wiêkszy poziom zaawansowania zawodnika, tym mniejsze wystêpuje ryzyko kontuzji (ªentun, 2012)
+*	Osoby trenuj¹ce sztuki walki wyró¿niaj¹ siê na tle innych sportowców ró¿nymi aspektami psychologicznymi np. samoocen¹ (Janowska, Wojdat, Antkowiak, & Stêpniak, 2016)
+
  
-## Co to je radzenie sobie ze stresem
+## Strategie radzenia sobie ze stresem (wg. Kwestionariusza CISS)
 
-* takie strategie som
-* srakie
-* i owakie :)
+*  styl skoncentrowany na zadaniu (SSZ)
+*  styl skoncentrowany na emocjach (SSE)
+*  styl skoncentrowany na unikaniu (SSU)
+    +  anga¿owanie siê w czynnoœci zastêpcze (AKC) 
+    +  poszukiwanie kontaktów towarzyskich (PKT)
 
-## Cot o je radzenie sobie z bÃ³lem
+## Style radzenia sobie z bólem (wg skal kwestionariusza CSQ)
 
-* takie som
-* takie som
-* i jeszcze takie
+* Przewartoœciowanie doznañ
+* Katastrofizowanie
+* Ignorowanie doznañ
+* Modlenie siê
+* pok³adanie nadziei
+* Deklarowanie radzenia sobie
+* Zwiêkszona aktywnoœæ behawioralna
+
+
+## Umiejscowienie kontroli bólu (wg Kwestionariusza BPCQ)
+
+* wewnêtrzne
+* wp³yw personelu medycznego
+* zdarzenia przypadkowe
+
+
 
 ## HIPOTEZY
 
-* W grupie osÃ³b, ktÃ³re powrÃ³ciÅ‚y do sportu po przebytej kontuzji znajdzie siÄ™ wiÄ™cej osÃ³b o zadaniowym stylu radzenia sobie ze stresem niÅ¼ osÃ³b o emocjonalnym oraz unikowym stylu radzenia sobie ze stresem.
-* W grupie osÃ³b, ktÃ³re powrÃ³ciÅ‚y do sportu po przebytej kontuzji znajdzie siÄ™ wiÄ™cej osÃ³b, ktÃ³re przypisujÄ… duÅ¼e znaczenie wÅ‚asnym umiejÄ™tnoÅ›ciom radzenia sobie i obniÅ¼enia bÃ³lu niÅ¼ w grupie osÃ³b, ktÃ³re nie powrÃ³ciÅ‚y do sportu.
+* W grupie osób, które powróci³y do sportu po przebytej kontuzji znajdzie siê wiêcej osób o **zadaniowym stylu radzenia sobie ze stresem** ni¿ osób o **emocjonalnym** oraz **unikowym stylu radzenia sobie ze stresem.**
+* W grupie osób, które powróci³y do sportu po przebytej kontuzji znajdzie siê wiêcej osób, które preferuj¹ styl polegaj¹cy na **deklarowaniu radzenia sobie oraz zwiêkszonej aktywnoœci behawioralnej** ni¿ w grupie osób, które nie powróci³y do sportu.
 
-* IloÅ›Ä‡ osÃ³b powracajÄ…cych do sportu po kontuzji, bÄ™dzie malaÅ‚o wraz ze wzrostem dÅ‚ugoÅ›ci przerwy w trenowaniu spowodowanej kontuzjÄ… i rehabilitacjÄ…, niezaleÅ¼nie od stylu radzenia sobie ze stresem i bÃ³lem.
+## HIPOTEZY
+
+* Iloœæ osób powracaj¹cych do sportu po kontuzji, bêdzie mala³a wraz ze wzrostem d³ugoœci przerwy w trenowaniu spowodowanej kontuzj¹ i rehabilitacj¹, niezale¿nie od stylu radzenia sobie ze stresem i bólem.
+* W grupie osób, które powróci³y do sportu po przebytej kontuzji znajdzie siê wiêcej osób, które przypisuj¹ kontrolê bólu **czynnikom wewnêtrznym (osobistym)** ni¿ osób, które przypisuj¹ kontrolê bólu **wp³ywom lekarzy** oraz **przypadkowym zdarzeniom**
 
 
-# MATERIAÅ I METODY
+# MATERIA£ I METODY
 
-## Ludzie
+## Osoby badane
 
-* tacy
-* sracy
-* owacy
+* 120 mê¿czyzn i kobiet, trenuj¹cych regularnie (przynajmniej 2 lata przed wyst¹pieniem kontuzji) sporty lub sztuki walki
+* Rekrutowane bêd¹ osoby nale¿¹ce do Akademickiego Zwi¹zku Sportowego ró¿nych uczelni, z poszczególnych sekcji (judo, karate, aikido, Ju-jitsu, MMA, boks, kickboxing)
+* Osoby, które nie mog¹ kontynuowaæ treningów ze wzglêdów zdrowotnych (przebyta kontuzja uniemo¿liwa powrót) nie s¹ brane pod uwagê
+* Osoby badane nie musz¹ doznaæ kontuzji podczas treningu danego sportu, jednak musi oni uniemo¿liwaæ regularne treningi na okres przynajmniej 3 miesiêcy 
 
-## ANkieta
+## Ankieta 
 
-* demografia
-* rodzaj sportu
-* dÅ‚ugoÅ›Ä‡ rehabilitacji
-* czy powrocili czy nie
+* Dane demograficzne
+* Rodzaj trenowanych sztuk/sportów walki
+* D³ugoœæ rehabilitacji
+* Rodzaju doznanej kontuzji
+* Pytanie dotycz¹ce powrotu b¹dŸ nie do regularnych treningów
 
 ## Kwestionariusze
 
-* takie
-* srakie
-* owakie
+* CISS - Kwestionariusz Radzenia Sobie w Sytuacjach Stresowych
+* CSQ - Kwestionariusz Strategii Radzenia Sobie z Bólem
+* BPCQ - Kwestionariusz Przekonañ na Temat Kontroli Bólu
+
 
 ## Statystyka
 
-* taka
-* sraka
-* owaka
+* Osoby badane zostan¹ podzielone na 2 grupy ze wzglêdu na powrót lub brak powrotu do regularnych treningów
+* Wieloczynnikowa ANOVA - zmienna grupuj¹ca powrót lub jego brak, czynniki to poszczególnie strategie/style/umiejescowienie kontroli + d³ugoœæ rehabilitacji
+* Pozwala to na stwierdzenie, czy dane grupy ró¿n¹ siê pod wzglêdem preferowanych stylów i strategii
+* Dodatkow¹ zmienn¹, wed³ug której mo¿na dokonaæ podzia³u wewn¹trzgrupowego to zmienna p³ci 
 
-# przewidywane wyniczki
+# Bibliografia
 
-## Jakie som?
+##Bibliografia
 
-* takie
-* srakie
-* owakie
+* Bujak, Z. (2008). Incidence of injuries in martial arts with taekwon-do as an example. Movement for Culture, 8, 118–132. 
+
+* Clement, D., & Shannon, V. R. (2011). Injured Athletes’ Perceptions About Social Support. Journal of Sport Rehabilitation, 20, 457–470. https://doi.org/10.1123/jsr.20.4.457
+
+* Fisher, A. C., Mullins, S. A., & Frye, P. A. (n.d.). Athletic Trainers Attitudes and Judgments of Injured Athletes Rehabilitation Adherence, 2, 43–47.
+
+## Bibliografia
+
+* Janowska, P., Wojdat, M., Antkowiak, M., & Stêpniak, R. (2016). Self-assessment and selected elements of the social position of judokas. Journal of Education, Health and Sport, 6(9), 664–673.
+
+* Quackenbush, N., & Crossman, J. (1994). Injured Athletes: A Study of Emotional Responses. Journal of Sport Behavior, 3(17).
+
+* ªentun, B. (2012). Examination of a ikido and Injury – Own Reflections. Journal of Martial Arts Anthropology, 12(2), 70–72.
 
 
-    
+# Dziêkujê za uwagê
+
+## Agata Zywert 
+Gdañski Uniwersytet Medyczny
+
+psychologia zdrowia 
+
+II rok
+
+2018
 
