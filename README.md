@@ -13,7 +13,7 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 ##### 2. Językoznawstwo 
 
 * [**temat 1**](jezykoznawstwo.html)
-* [**temat2**] - wkrótce
+* [**temat2**](jezykoznawstwo2.html)
 
 ##### 3. Neuroobrazowanie 
 * [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
@@ -22,6 +22,5 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 * [**część ostatnia**](neuroobrazowanie4.html) **uzależnienia i  R E L I G I J N O Ś Ć**
 
 
-* [**meto**](metodologia.html)
-  
+
 
