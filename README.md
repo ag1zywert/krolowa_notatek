@@ -9,7 +9,8 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 
 ### OTO ONE
 
-##### 1. Psychologia pracy [**right here**](psych_pracy.html)
+##### 1. Neuroradiologia!
+* Wykład 1. [**część pierwsza**](neuroradiololo.html)
 ##### 2. Językoznawstwo 
 
 * [**temat 1**](jezykoznawstwo.html)
