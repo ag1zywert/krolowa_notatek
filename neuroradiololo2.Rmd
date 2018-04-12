@@ -1,0 +1,55 @@
+---
+title: "Neuroradiologia 2"
+author: "Agata Zywert, ale trochê Maria Szewc"
+date: "12 kwietnia 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### MRI mózgowia - od nardzoin a¿ do œmierci
+
+##### **Rozwój mózgu**
+
+**Mózg** - rozwój zaprogramowany i skorelowany z kszta³towaniem czynnoœci
+
+* **Wspó³czesne techniki neuroobrazowe**
+    + badanie USG przezciemi¹tkowe
+    + TK
+    + MRI
+    
+* **Proces mielinizacji**
+    + proces formowania os³onek mielinowych wokó³ nerwu (wokó³ aksonu)
+    + u³atwia transmisje impulsów nerwowych w OUN
+    + oceniamy za pomoc¹ MRI - obrazu T1w i T2w
+    + **JAK NASTÊPUJE?**
+        + okreœlony porz¹dek - pieñ mózgu -> mó¿d¿ek -> mózg
+        + od œrodka na obwód
+        + z do³u do góry
+        + od ty³u do przodu
+    + intensywnoœæ sygna³u IS - odwrócony stosuek intensywnoœæi sygna³u miêdz istot¹ szar¹ a bia³¹ `(jakiœ obrazek)`
+    
+* **Noworodki**
+  + anatomiczny rozwój mózgowia jest prawie kompletny
+  + cia³o modzelowate jest cieñsze
+
+* **Rozwój**
+    + _**mielinizacja**_ -  prekursory mieliny - podwy¿szenie sygna³u w **T1**
+    + dojrzewanie mieliny - obni¿enie sygna³u w **T2**
+    + **T1** i **T2** - dostarczaj¹ inncyh inf odnoœnie etapów mielinizacji
+    + **T1** - wczesne stadium mielinizacji
+    + **T2** - zakoñczenie mielinizacji
+    + **T1** - wa¿ne w 1 roku ¿ycia
+    
+* **Mózg noworodka w T1, obszary _kory_ bardziej dojrza³e:
+    + kora oko³oœrodkowa (kora czuciowo - ruchowa)
+    + pierwotna kora wzrokowa 
+    + kora zakrêtu Heshla
+    + steuktury okolicy przyœrodkowo-skroniowej (hipokamp)
+* obszary _istoty bia³ej_ bardziej dojrza³e
+    + droga korowo-rdzeniowa
+  
+  
+
