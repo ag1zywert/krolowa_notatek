@@ -8,24 +8,22 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 ##### BIERZCIE I JEDZCIE :)
 
 ### OTO ONE
-
+### AKTUALNE:
 ##### 1. Neuroradiologia!
 * Wykład 1. [**część pierwsza**](neuroradiololo.html)
             + [**część druga**](neuroradiololo2.html) 
-    
-##### 2. Językoznawstwo 
+       
+##### 2. Prawo
+* [**Jest tutaj**](prawo.html)
+            + a tutaj jest **[.pdf]**(prawo.pdf)
+            + a tutaj jest **[.doc]**(prawo.docx)
+            
+### ARCHIWUM: 
 
-* [**temat 1**](jezykoznawstwo.html)
-* [**temat 2**](jezykoznawstwo2.html)
-* [**temat 3**](jezykoznawstwo3.html)
-* [**temat 4**](jezykoznawstwo4.html)
-* [**temat 5 i 6**](jezykoznawstwo5.html)
+##### Językoznawstwo [**temat 1**](jezykoznawstwo.html), [**temat 2**](jezykoznawstwo2.html), [**temat 3**](jezykoznawstwo3.html), [**temat 4**](jezykoznawstwo4.html), [**temat 5 i 6**](jezykoznawstwo5.html)
 
-##### 3. Neuroobrazowanie 
-* [**początek**](neuroobrazowanie.html) - **Introduction i metody neuroobrazowania**
-* [**część 2**](neuroobrazowanie2.html) -  **Badanie receptorowe, chemia mózgu i do czego się stosuje neuroobrazowanko**
-* [**część 3**](neuroobrazowanie3.html) **różne choroby i coś tam :)**
-* [**część ostatnia**](neuroobrazowanie4.html) **uzależnienia i  R E L I G I J N O Ś Ć**
+##### Neuroobrazowanie 
+* [**początek**](neuroobrazowanie.html), [**część 2**](neuroobrazowanie2.html), [**część 3**](neuroobrazowanie3.html), [**część ostatnia**](neuroobrazowanie4.html) 
 
 
 
