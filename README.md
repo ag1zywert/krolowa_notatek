@@ -15,8 +15,8 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
        
 ##### 2. Prawo
 * [**Jest tutaj**](prawo.html)
-            + a tutaj jest [**.pdf**](prawo.pdf)
-            + a tutaj jest [**.doc**](prawo.docx)
+            * a tutaj jest [**.pdf**](prawo.pdf)
+            * a tutaj jest [**.doc**](prawo.docx)
             
 ### ARCHIWUM: 
 
