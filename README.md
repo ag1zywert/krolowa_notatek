@@ -14,6 +14,7 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
             + [**część druga**](neuroradiololo2.html) 
        
 ##### 2. Prawo
+* [**SKRÓT FILMOWY**(https://drive.google.com/drive/folders/1g6k_y9wVLIEeSD5gES9k2TD13XsXEMsb?usp=sharing)
 * [**Jest tutaj**](prawo.html)
 
 * a tutaj jest [**.pdf**](prawo.pdf)
