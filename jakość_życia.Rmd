@@ -1,0 +1,140 @@
+---
+title: "Style radzenia sobie ze stresem i bólem a decyzja o powrocie do sportu po przebytej kontuzji u osób trenujących sztuki lub sporty walki oraz późniejsza jakość życia"
+author: Agata Zywert
+
+output:
+  rmarkdown::html_document:
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Cel badań
+
+Celem badań jest uzyskanie informacji na temat tego, czy preferowany sposób radzenia sobie ze stresem oraz stosowanie danej strategii radzenia sobie z bólem i przekonania na temat umiejscowienia kontroli bólu wpływają na decyzje osób trenujących sztuki lub sporty walki o powrocie do sportu po doznanej kontuzji. Ponadto kolejnym celem jest uzyskanie informacji na temat tego, czy osoby, które powróciły do sportu różnią się pod względem oceny własnej jakości życia od osób, które nie powróciły do sportu.
+
+### Tło badań
+
+*	Emocjonalna odpowiedź na doznaną kontuzję stanowi ważny aspekt rehabilitacji i często stanowi o jej wyniku _(Quackenbush & Crossman, 1994)_
+* Urazy u osób trenujących regularnie najczęściej wywołują negatywne emocje i są sytuacjami stresowymi _(Clement & Shannon, 2011)_
+*	Rehabilitacja, wsparcie społeczne i psychologiczna pomoc dla osób, które doznały wypadku przynosi lepsze efekty jeśli dopasowana jest do psychologicznych predyspozycji osoby poszkodowanej _(Fisher, Mullins, & Frye, 1993)_
+*	Sporty i sztuki walki charakteryzują się dość wysoką urazowością (szczególnie boks i zapasy) związane jest to między innymi z urazami w bezpośrednich walkach sportowych _(Bujak, 2008)_
+*	Dominującymi urazami są urazy średnie i lekkie (rozciągnięcia więzadeł i stłuczenia) – co oznacza, że po okresie rehabilitacji osoby, które doznały kontuzji mogą zwykle wrócić do regularnych treningów _(Bujak, 2008)_
+* Im większy poziom zaawansowania zawodnika, tym mniejsze występuje ryzyko kontuzji _(Şentun, 2012)_
+*	Osoby trenujące sztuki walki wyróżniają się na tle innych sportowców różnymi aspektami psychologicznymi np. samooceną _(Janowska, Wojdat, Antkowiak, & Stępniak, 2016)_
+* U sportowców, którzy doznają urazów oprócz fizycznych trudności i bólu obserwuję się także obniżenie jakości życia _(Valovich McLeod, Bay, Parsons, Sauers, & Snyder, 2009)_
+* Obniżenie jakości życia osób po urazach związana jest także z lękiem o ponowne wystąpienie danego urazu podczas kontynuowania aktywności sportowej _(Kvist, Ek, Sporrstedt, & Good, 2005)_
+
+
+ 
+### Style radzenia sobie ze stresem (wg. Kwestionariusza CISS)
+
+*  styl skoncentrowany na zadaniu (SSZ)
+*  styl skoncentrowany na emocjach (SSE)
+*  styl skoncentrowany na unikaniu (SSU)
+    +  angażowanie się w czynności zastępcze (AKC) 
+    +  poszukiwanie kontaktów towarzyskich (PKT)
+    
+
+### Strategie radzenia sobie z bólem (wg skal kwestionariusza CSQ)
+
+* Przewartościowanie doznań
+* Katastrofizowanie
+* Ignorowanie doznań
+* Modlenie się
+* pokładanie nadziei
+* Deklarowanie radzenia sobie
+* Zwiększona aktywność behawioralna
+
+
+### Umiejscowienie kontroli bólu (wg Kwestionariusza BPCQ)
+
+* wewnętrzne
+* wpływ personelu medycznego
+* zdarzenia przypadkowe
+
+### Ocena Jakości życia (wg kwestionariusza EQ-5D)
+
+#### Część 1 - opisowa
+* obejmuje ocenę HRQoL w następujących kategoriach:
+    + 1 – zdolność poruszania się
+    + 2 – samoopieka
+    + 3 – zwykłe czynności 
+    + 4 – ból i dyskomfort 
+    + 5 – niepokój  i przygnębienie
+* Utrudnienia ze względu na stan zdrowia w każdej z tych kategorii opisane są jako trzy możliwe poziomy: brak problemów, niewielkie problemy/umiarkowane nasilenie, niemożność wykonywania danych czynności/bardzo duże nasilenie.
+
+#### Część 2
+* wizualna skala analogowa, za pomocą której pacjent ocenia  w skali od 0 (najgorszy wyobrażalny stan zdrowia) do 100 (najlepszy wyobrażalny stan zdrowia) swój obecny stan zdrowia
+
+
+### HIPOTEZY
+
+* W grupie osób, które powróciły do sportu po przebytej kontuzji znajdzie się więcej osób o zadaniowym stylu radzenia sobie ze stresem niż osób o emocjonalnym oraz unikowym stylu radzenia sobie ze stresem.
+* W grupie osób, które powróciły do sportu po przebytej kontuzji znajdzie się więcej osób, które preferują styl polegający na deklarowaniu radzenia sobie oraz zwiększonej aktywności behawioralnej niż w grupie osób, które nie powróciły do sportu.
+* Ilość osób powracających do sportu po kontuzji, będzie malała wraz ze wzrostem długości przerwy w trenowaniu spowodowanej kontuzją i rehabilitacją, niezależnie od stylu radzenia sobie ze stresem i bólem.
+* W grupie osób, które powróciły do sportu po przebytej kontuzji znajdzie się więcej osób, które przypisują kontrolę bólu czynnikom wewnętrznym (osobistym) oraz wpływom lekarzy niż osób, które przypisują kontrolę bólu przypadkowym zdarzeniom
+* Osoby, które po doznanej kontuzji i rehabilitacji powróciły do sportu będą oceniały wyżej swoją jakość życia niż osoby, które nie powróciły do sportu
+
+
+### MATERIAŁ I METODY
+
+### Osoby badane
+
+* 120 mężczyzn i kobiet, trenujących regularnie (przynajmniej 2 lata przed wystąpieniem kontuzji) sporty lub sztuki walki
+* Rekrutowane będą osoby należące do Akademickiego Związku Sportowego różnych uczelni, z poszczególnych sekcji (judo, karate, aikido, Ju-jitsu, MMA, boks, kickboxing)
+* Osoby, które nie mogą kontynuować treningów ze względów zdrowotnych (przebyta kontuzja uniemożliwa powrót) nie są brane pod uwagę
+* Osoby badane nie muszą doznać kontuzji podczas treningu danego sportu, jednak musi on uniemożliwiać regularne treningi na okres przynajmniej 3 miesięcy 
+
+### Ankieta 
+
+* Dane demograficzne
+* Rodzaj trenowanych sztuk/sportów walki
+* Długość rehabilitacji
+* Rodzaj doznanej kontuzji
+* Pytanie dotyczące decyzji o powrocie do regularnych treningów
+
+### Kwestionariusze
+
+* CISS - Kwestionariusz Radzenia Sobie w Sytuacjach Stresowych
+* CSQ - Kwestionariusz Strategii Radzenia Sobie z Bólem
+* BPCQ - Kwestionariusz Przekonań na Temat Kontroli Bólu
+* EQ-5D -  Euro-Quality of Life Questionnaire 
+
+
+
+### Statystyka
+
+* Osoby badane zostaną podzielone na 2 grupy ze względu decyzje o powrocie do regularnych treningów
+* Wieloczynnikowa ANOVA - zmienna grupująca powrót lub jego brak, czynniki to poszczególnie strategie/style/umiejescowienie kontroli + długość rehabilitacji
+* Pozwala to na stwierdzenie, czy dane grupy różną się pod względem preferowanych stylów i strategii
+* Dodatkową zmienną, według której można dokonać podziału wewnątrzgrupowego to zmienna płci (chociażby dlatego, że według badań kobiety i mężczyźni różnią się pod względem tolerancji bólu _(Pool, Schwegler, Theodore, & Fuchs, 2007)_)
+* Test T - do uzyskania informacji czy pomiędzy dwiema grupami istnieje różnica pod względem oceny jakości życia
+
+
+
+#### Bibliografia
+
+* Bujak, Z. (2008). Incidence of injuries in martial arts with taekwon-do as an example. Movement for Culture, 8, 118–132. 
+
+* Clement, D., & Shannon, V. R. (2011). Injured Athletes’ Perceptions About Social Support. Journal of Sport Rehabilitation, 20, 457–470. https://doi.org/10.1123/jsr.20.4.457
+
+* Fisher, A. C., Mullins, S. A., & Frye, P. A. (n.d.). Athletic Trainers Attitudes and Judgments of Injured Athletes Rehabilitation Adherence, 2, 43–47.
+
+
+* Janowska, P., Wojdat, M., Antkowiak, M., & Stępniak, R. (2016). Self-assessment and selected elements of the social position of judokas. Journal of Education, Health and Sport, 6(9), 664–673.
+
+* Kvist, J., Ek, A., Sporrstedt, K., & Good, L. (2005). Fear of re-injury: A hindrance for returning to sports after anterior cruciate ligament reconstruction. Knee Surgery, Sports Traumatology, Arthroscopy, 13(5), 393–397. https://doi.org/10.1007/s00167-004-0591-8
+
+* Pool, G. J., Schwegler, A. F., Theodore, B. R., & Fuchs, P. N. (2007). Role of gender norms and group identification on hypothetical and experimental pain tolerance. Pain, 129(1–2), 122–129. https://doi.org/10.1016/j.pain.2006.10.008
+
+
+* Quackenbush, N., & Crossman, J. (1994). Injured Athletes: A Study of Emotional Responses. Journal of Sport Behavior, 3(17).
+
+* Şentun, B. (2012). Examination of a ikido and Injury – Own Reflections. Journal of Martial Arts Anthropology, 12(2), 70–72.
+
+* Valovich McLeod, T. C., Bay, R. C., Parsons, J. T., Sauers, E. L., & Snyder, A. R. (2009). Recent injury and health-related quality of life in adolescent athletes. Journal of Athletic Training, 44(6), 603–610. https://doi.org/10.4085/1062-6050-44.6.603
+
+
