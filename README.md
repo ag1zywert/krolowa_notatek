@@ -8,7 +8,9 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 ##### BIERZCIE I JEDZCIE :)
 
 #### Korki z tipnów:
+`OKAZAŁO SIĘ, ŻE TUTORIAL DO DPLYR KTÓRY NAGRAŁAM ROZJECHAŁ DŹWIĘK Z WIDEŁO, MOŻECIE TO OBEJRZEĆ BEZ DŹWIĘKU ALE NAGRAM LEPSZĄ WERSJĘ SOON`
 * ggplot i dplyr [**tutaj**](https://drive.google.com/open?id=1ttz9gEmBvKOd5fMwBaiIYHrsnSSxmQs5)
+
 
 ### OTO ONE
 ### AKTUALNE:
