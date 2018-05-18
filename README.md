@@ -7,6 +7,9 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 
 ##### BIERZCIE I JEDZCIE :)
 
+#### Korki z tipnów:
+* ggplot i dplyr [**tutaj**](https://drive.google.com/open?id=1ttz9gEmBvKOd5fMwBaiIYHrsnSSxmQs5)
+
 ### OTO ONE
 ### AKTUALNE:
 ##### 1. Neuroradiologia!
