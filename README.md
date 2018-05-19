@@ -12,8 +12,12 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 * ggplot i dplyr [**tutaj**](https://drive.google.com/open?id=1ttz9gEmBvKOd5fMwBaiIYHrsnSSxmQs5)
 
 
+
 ### OTO ONE
 ### AKTUALNE:
+### Psycholingwistyka
+* Część 1. [**tu**](Psycholingwistyka_not.html)
+
 ##### 1. Neuroradiologia!
 * Wykład 1. [**część pierwsza**](neuroradiololo.html)
             + [**część druga**](neuroradiololo2.html) 
