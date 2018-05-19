@@ -1,0 +1,240 @@
+---
+title: "Psycholingwistyka"
+author: "Agata Zywert"
+date: "18 maja 2018"
+output:
+  rmarkdown::html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ `Na początku jest historia o małpach co gadają, wybaczcie, ale to pominę :)`
+
+### Percepcja i wytwarzanie mowy
+
+#### Mózgowa reprezentacja mowy
+
+* Obszar mowy - obszar wokół bruzdy bocznej (bruzdy Sylwiusza)
+* ośrodek ruchowy mowy
+* ośrodek czuciowy mowy 
+* pęczek łukowaty `im not sure`
+* część wzgórza związana z percepcją słuchową
+* pierwotna kora słuchowa
+
+##### **Dwie najbardziej znane i kojarzone z mową okolice kory mózgu to:**
+  +  **ośrodek Broki** (część wieczkowa i trójkątna zakrętu czołowego dolnego), odpowiedzialny za generowanie ruchów umożliwiających wytwarzanie mowy,
+  +  **ośrodek Wernickego** (tylna część zakrętu skroniowego górnego), obejmujący mechanizmy rozumienia znaczenia poszczególnych słów.
+  
+![](http://3.bp.blogspot.com/-GZwsxOALF5g/T9Y0Zi_q13I/AAAAAAAAADc/7ro2k9N6V8s/s1600/mozg.gif)
+
+##### **Zróżnicowanie brzmieniowe**
+
+* **średnio 6 samogłosek**
+    + min. 2 -Yimas, Papua New Guinea
+    + max. 14-niemiecki 
+* **średnio 22 spółgłoski**
+    + min. 6-Rotokas, Papua New Guinea 
+    + max. 122 (!Xoo, Botswana)
+    
+##### **Interpretacja fonemów**
+
+* zmienność brzmieniowa wynikająca z koartykulacji
+* zmienność brzmieniowa wynikająca z różnic międzyosobniczych
+* zdolność wyodrębniania słów
+
+##### **Percepcja mowy**
+
+* 10-30 fonemów na sekundę
+* samogłoski 
+* spółgłoski
+* koartykulacja
+* transmisja paralelna
+* zmienność allofoniczna 
+* przewaga prawego ucha? `mnie pytasz Emila?`
+
+##### **Spektrograf akustyczny**
+##### Spektogramdźwiękowy – obraz wytwarzany przez spektrograf
+* częstotliwość (y) 
+* czas (x)
+* amplituda (zaczernienie)
+
+### **Percepcja mowy a percepcja wzrokowa**
+
+#### **SYGNAŁ DŹWIĘKOWY** -> <- **WIEDZA JĘZYKOWA**
+
+##### **Komunikaty zawierające niedoskonałe / wieloznaczne sygnały?**
+
+* **Przetwarzanie zstępujące (top-down)**
+    + informacja leksykalna 
+    + informacja syntaktyczna
+    + informacja kontekstowa
+* **Przetwarzanie wstępujące (bottom-up)**
+    + tylko informacja akustyczna
+    
+##### **Współdziałanie wstępującego i zstępującego przetwarzania mowy**
+
+* zjawisko odzyskiwania fonemu (ang. phonemicrestoration)
+* rozpoznawanie błędów mowy
+    + sekwencje typowe > atypowe
+    + błędne miejsce artykulacji > zmiana dźwięczności
+    + spółgłoski nagłosowe > wygłosowe
+    
+##### **Modele percepcji mowy**
+
+* **akustyczne sygnały mowy a segmenty fonetyczne?**
+  + motoryczna teoria percepcji mowy
+  + teoria analizy przez syntezę
+  + model logiki zbiorów rozmytych akustyczne sygnały mowy a słuchowe rozpoznawanie słów?
+* **modele interakcyjne**
+  + model kohortowy
+  + model TRACE
+  
+##### **Motoryczna teoria percepcji mowy**
+
+* odbiór mowy zgodny z mechanizmami jej wytwarzania
+* sygnały interpretowane przez odwołanie się do motoryki ruchów artykulacyjnych 
+* wyjaśnia problem: sygnał akustyczny a reprezentacja fonematyczna
+* niezmienniki na poziomie realizacji artykulacyjnej?
+* Problemy kliniczne: AFAZJA a APRAKSJA MOWY
+
+##### **Analiza przez syntezę**
+
+* związek między percepcją mowy a jej wytwarzaniem 
+* rozumienie dzięki wykorzystaniu matryc abstrakcyjnych cech dystynktywnych 
+* odbiór mowy (analiza) –wewnętrzna synteza –porównanie wyniku syntezy z bodźcem słuchowym 
+* rozumienie mowy jako proces weryfikacji hipotez
+* model abstrakcyjny 
+* weryfikacja empiryczna? `proszę przestań zadawać mi pytania...`
+
+
+1. Model logiki zbiorów rozmytych (ang. fuzzylogicalmodel) 
+
+* **Percepcja mowy obejmuje 3 operacje:**
+    + **ocenę cech** (stopnia dopasowania cech do prototypu)
+    + **integrację cech**
+    + **podjęcie decyzji** (na podst. względnej zgodności egzemplarza z prototypem)
+* **PROTOTYPY** – sumaryczne opisy percepcyjnych jednostek języka, zawierające połączenie różnych cech dystynktywnych
+* cechy prototypu odpowiadają wartościom idealnym, które powinien mieć każdy egzemplarz
+* różne cechy fonemu odpowiadające danemu kontrastowo fonetycznemu wydobywane są niezależnie z fali głosowej
+* cechy te są łączone zgodnie z zasadami integracji logicznej (bazującymi na rozmytych wartościach logicznych), informacja dotycząca cechy może być reprezentowana jako stopień dopasowania
+* informacja ma postać ciągła, a nie dyskretną
+* proces probabilistyczny
+
+2. **Model kohortowy**
+
+* aktywacja kohorty słów -akustyczno-fonetyczna forma słowa aktywizuje wszystkie słowa o tym samym początku (słowa te tworzą kohortę)
+* selekcja słowa z kohorty (na podst. informacji akustycznej, ale również semantycznej, częstości użycia wyrazu)
+
+3. **Model TRACE**
+
+* odwołanie do działania sieci neuronowych 
+* przetwarzanie informacji poprzez pobudzające i hamujące połączenia między węzłami 
+  + **cechy węzła:**
+	+ poziom spoczynkowy 
+	+ próg pobudzenia 
+	+ poziom aktywacji, który określa stopień w jakim informacja wejściowa jest zgodna z jednostką reprezentowaną przez ten węzeł 
+* sieć powiązań między węzłami 
+* powiązania dwukierunkowe między węzłami
+
+##### Neurobiologiczna organizacja percepcji słuchowej 
+
+* Ciała kolankowate przyśrodkowe
+* Zakręty poprzeczne Heschla
+
+4. **Model dwustrumieniowy percepcji mowy** (Hickoki Poeppel, 2000, 2004, 2007) 
+
+* rozwinięcie modelu Wernicke’go-Geschwinda-Lichtheima
+* strumień brzuszny–skroniowo-czołowy 
+* przetwarzanie dźwięku w znaczenie (powiązanie systemu fonologicznego z leksykalno-semantycznym) 
+* strumień grzbietowy–ciemieniowo-czołowy 
+* przetwarzanie dźwięku w działanie (powiązanie systemu fonologicznego z ruchowo-artykulacyjnym)
+* w percepcji mowy uczestniczą obie półkule mózgu
+* każda z półkul ma nieco inne okno czasowe dla percepcji mowy
+
+##### **Dowody potwierdzające model dwustrumieniowy percepcji mowy w zakresie zaangażowania obupółkulowegow proces percepcji mowy**
+
+* badania z użyciem fMRIosób zdrowych
+* badania z zastosowaniem próby Wady 
+* badania osób z afazją Wernicke’go 
+* badania osób z czystą głuchotą słowną
+
+##### **Sieć fonologiczna**
+
+* Boczna część zakrętu skroniowego górnego 
+* Środkowa część bruzdy skroniowej górnej 
+* Obupółkulowo 
+* Zróżnicowanie ze względu na unikatowość brzmieniową słowa
+* phonologicalneighbourhooddensity–gęstość sąsiedztwa fonologicznego 
+* Czym więcej podobnych słów tym większa aktywność mózgu podczas percepcji danego słowa
+
+##### **Prawa półkula**
+
+* Rozpoznawanie samogłosek 
+* Rozpoznawanie głosu
+
+##### **Próba Wady**
+
+* Niewielka ilość błędów 
+* Głównie błędy semantyczne
+
+##### **Czysta głuchota słowna** (ang. pureworddeafness) - U ok. 72% pacjentów uszkodzenia obupółkuloweśrodkowej i tylnej części górnego zakrętu skroniowego oraz istoty białej, z oszczędzeniem zakrętów Heschla
+
+##### **Hipoteza asymetrycznego próbkowania**
+
+* lewa półkula –szybkie kontrasty fonemiczne 
+* prawa półkula –informacje sylabowe
+
+##### **Percepcja fonemów i dźwięków, które nie są fonemami**
+
+* Percepcja kategorialna
+* Przewaga lewej półkuli
+
+##### **Efekt McGurka**
+
+* Ba (audio) –ga(wideo) –da
+* Rozbieżność między sygnałem akustycznym i wzrokowym
+* TMS ukierunkowana na zakręt skroniowy górny zmniejsza efekt McGurkaale tylko 100ms przed / po ekspozycji
+* Tylna część lewego górnego zakrętu skroniowego : integracja informacji słuchowej i wzrokowej w percepcji mowy
+
+##### **Badania elektrofizjologiczne percepcji mowy –Abrams i wsp., 2008**
+
+* Prawa półkula
+* Lewa półkula
+
+#### **Wczesne dowody wspierające model dwustrumieniowy** - podwójna dysocjacja między rozumieniem a powtarzaniem
+
+#### **Rozumienie słów a rozróżnianie fonemów**
+
+* Dopasowywanie słowoobrazek 
+* Różnicowanie fonemów (takie same –inne)
+* Interfejs leksykalny (przetwarzanie struktur fonologicznych w semantyczne lub „lemma”) 
+* Sieć kombinatoryczna
+
+##### **Interfejs leksykalny**
+
+* tylna część środkowego zakrętu skroniowego po lewej 
+* tylna część dolnego zakrętu skroniowego obupółkulowo, ale w większym stopniu po lewej
+
+#### **Sieć kombinatoryczna**
+
+* przednia część lewego płata skroniowego, powierzchnia boczna
+* rozumienie słów w zdaniach
+* Badanie Rogalskyi Hickoka:
+* Zdania poprawne (te same w 2 warunkach), błędne (20%) -wykrywanie nieprawidłowości semantycznych 
+* e.g., The infant was spilling some carpet on the milk -wykrywanie nieprawidłowości składniowych 
+* e.g., The plumber with the glasses were installing the sink 
+* analiza wzorca aktywacji mózgowej w przypadku zdań prawidłowych, takich samych –w warunku semantycznym i syntaktycznym
+
+#### Planumtemporale - strumień grzbietowy - słuchowe „jak”
+
+#### STRUMIEŃ GRZBIETOWY
+
+#### **reprezentacje percepcyjne -> <- reprezentacje ruchowe**
+
+
+
+    
+    
