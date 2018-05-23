@@ -1,0 +1,78 @@
+---
+title: "Czemu zamiast spać uczę ludzi w komputer?"
+author: "Agata Zywert"
+date: "23 maja 2018"
+output: 
+  rmarkdown::html_document:
+    theme: united
+    highlight: zenburn
+
+
+---
+
+## Różowe lata 70
+
+* Super serial
+* Fajni ludzie
+* Ashton Kutcher jest dobrą dupą
+  + bo ma ładne włosy
+  + ale tylko jak był młody
+  
+#### **Kto tam gra?**
+
+1. Topher Grace
+2. Ashton Kutcher
+3. Danny Masterson
+4. I ta laska co gra lesbijke w orange is the new black
+5. Mila Kunis jeszcze 
+
+###[Tutaj wejdź jak chcesz zobaczyć jak biję się w kiślu](https://www.netflix.com/browse)
+
+| Dzień tygodnia | Rodzaj zajęć | Poziom nudy |
+|----------------|--------------|-------------|
+| Poniedziałek | angielski i Emila | 10/10 |
+| Wtorek | Magda Błażek | 0/10 |
+| sroda | w srode nie ma szkoly | roznie bywa |
+
+` from __future__ import absolute_import, division`
+
+```{r}
+ile <- function(dzien, miesiac, rok, lata_obsuwy) {
+  g_2018 <- (((12- miesiac)*30)- (30- dzien))*24
+  g_2022 <- 6*30*24
+  pelnegodziny <- (2022- rok-1 + lata_obsuwy)* 365 *24
+  print(g_2018 + g_2022 + pelnegodziny)
+}
+
+ile(07,05,2018,0)
+```
+
+```{r echo = FALSE} 
+ile <- function(dzien, miesiac, rok, lata_obsuwy) {
+  g_2018 <- (((12- miesiac)*30)- (30- dzien))*24
+  g_2022 <- 6*30*24
+  pelnegodziny <- (2022- rok-1 + lata_obsuwy)* 365 *24
+  print(g_2018 + g_2022 + pelnegodziny)
+}
+
+ile(07,05,2018,0)
+
+```
+
+```{r echo = FALSE}
+library (tidyverse)
+ggplot (data = mpg) +
+  geom_point (mapping = aes (x = displ, y = cty))
+```
+
+```{r}
+library(tidyverse)
+ggplot (data = mpg, aes(x = class, y = displ)) +
+  geom_boxplot() +
+  coord_flip() +
+  labs(title = "Zależność pojemności silnika od klasy samochodu", x = "Klasa", y = "Pojemność") 
+
+```
+
+
+![](http://1.fwcdn.pl/ph/48/92/94892/147298_1.0.jpg)
