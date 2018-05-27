@@ -5,3 +5,4 @@ Pytania od dnia 11 maja
 3. W ogóle czemu ta Emila istnieje? Czy potrafisz sobie wyobrazic rodziców Emili?
 4. Czy tu jest może płot?
 5. Po co on se to dziecko zrobił?
+6. Czemu ja mam zawsze takie koleżanki co ćpają?
