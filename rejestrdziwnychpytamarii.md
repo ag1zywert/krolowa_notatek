@@ -6,3 +6,6 @@ Pytania od dnia 11 maja
 4. Czy tu jest może płot?
 5. Po co on se to dziecko zrobił?
 6. Czemu ja mam zawsze takie koleżanki co ćpają?
+7. Czemu ktoś decyduje się na pomarańczowy samochód?
+8. Czy osy albo pszczoły lecą do coli zero?
+9. Ej czy idzie jakiś pies? sprawdź
