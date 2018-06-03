@@ -11,6 +11,10 @@ Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 `nowydplyrjuzjest` 
 * ggplot i dplyr **ORAZ JUŻ TEŻ RMARKDOWN** [**tutaj**](https://drive.google.com/open?id=1ttz9gEmBvKOd5fMwBaiIYHrsnSSxmQs5)
 
+### PABLO
+
+* [**METODOLOGIA**](metodologia.html)
+
 
 
 ### OTO ONE
