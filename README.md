@@ -6,7 +6,8 @@ Otóż, tu znajdziecie notatki z różnych przedmiotów, które można spotkać 
 Jak chcecie mogę Wam dać te pliczki, które tu są w .doc tudzież .pdf.
 
 ##### BIERZCIE I JEDZCIE :)
-### [PSYCHOLOGIAZDROWIA](ZDROWIECHUJTAM.HTML)
+### [PSYCHOLOGIAZDROWIA](ZDROWIECHUJTAM.html)
+
 #### Korki z tipnów:
 `nowydplyrjuzjest` 
 * ggplot i dplyr **ORAZ JUŻ TEŻ RMARKDOWN** [**tutaj**](https://drive.google.com/open?id=1ttz9gEmBvKOd5fMwBaiIYHrsnSSxmQs5)
